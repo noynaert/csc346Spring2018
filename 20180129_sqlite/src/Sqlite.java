@@ -1,9 +1,8 @@
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.SQLException;
+import java.sql.*;
+import java.util.ArrayList;
 
 public class Sqlite {
-    static Connection conn;
+    Connection conn;
 
     public boolean makeConnection(String fileName){
         boolean successfullyOpened = false;
@@ -21,8 +20,48 @@ public class Sqlite {
         return successfullyOpened;
     }
 
+    public ArrayList<Stock> query(String queryString){
+        ArrayList<Stock> stocks = null;
 
-    public static void close(){
+        Statement stmt;
+        ResultSet rs;
+
+        try {
+            stmt = conn.createStatement();
+            rs = stmt.executeQuery(queryString);
+            stocks = new ArrayList<>();
+            while (rs.next()) {
+                String symbol = rs.getString("symbol");
+                String name = rs.getString("name");
+                double closing = rs.getDouble("closingPrice");
+
+                Stock stk = new Stock(symbol, name, closing);
+                stocks.add(stk);
+            }
+            rs.close();
+            stmt.close();
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+        return stocks;
+    }
+
+    void insert(Stock stk){
+        try {
+            Statement stmt = conn.createStatement();
+            String queryString = String.format
+                    ("INSERT INTO symbols(symbol, name, closingPrice) VALUES('%s', '%s', '%f');",
+                       stk.symbol, stk.name, stk.closingPrice
+                    );
+            //System.out.println(queryString);
+            stmt.executeUpdate(queryString);
+            stmt.close();
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+    }
+
+    public void close(){
         try {
             conn.close();
         } catch (SQLException e) {
