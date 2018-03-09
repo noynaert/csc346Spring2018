@@ -8,7 +8,7 @@ import javafx.scene.control.Label;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 
-public class Main extends Application implements EventHandler<ActionEvent> {
+public class Main extends Application  {
     Button pirate;
     Button chef;
     Label target;
@@ -35,8 +35,20 @@ public class Main extends Application implements EventHandler<ActionEvent> {
         chef = new Button();
         chef.setText("Chef");
 
-        pirate.setOnAction(this);
-        chef.setOnAction(this);
+        //pirate.setOnAction(this);
+        //chef.setOnAction(this);
+
+        pirate.setOnAction(new EventHandler<ActionEvent>() {
+            @Override
+            public void handle(ActionEvent event) {
+                primaryStage.setTitle("Talk like a Pirate");
+                target.setText("The ale waves endurance like a dead doubloons.");
+            }
+        });
+        chef.setOnAction(event->{
+           primaryStage.setTitle("Talk like a Chef");
+            target.setText("With ramens drink honey.");
+        });
 
         target = new Label("The starship trembles alarm like an evasive transporter.");
 
@@ -49,8 +61,8 @@ public class Main extends Application implements EventHandler<ActionEvent> {
         primaryStage.show();
     }
 
-    @Override
-    public void handle(ActionEvent event) {
+   // @Override
+   /* public void handle(ActionEvent event) {
         System.out.println("An event Occurred " + event.getSource());
         if(event.getSource() == pirate){
             target.setText("Comrade of a big desolation, raid the treasure!");
@@ -59,5 +71,5 @@ public class Main extends Application implements EventHandler<ActionEvent> {
             target.setText("All children like pressed cabbages in triple sec and vegemite.");
         }
 
-    }
+    }*/
 }
