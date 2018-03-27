@@ -1,0 +1,80 @@
+ACC418|Accounting Information Systems
+ACC633|Foundations of FIN and ACC
+MIM643|Supply Chain & Cust Relations
+MGT350|Organizational Behavior
+MGT360|Org Theory, Design, Change Mgt
+MGT416|Production and Operations Mgt
+MGT418|Management Information Systems
+MGT425|International Management
+MGT604|Organizational Behavior Mgt
+MGT604|Organizational Behavior Mgt
+MGT633|Contemporary Issues in Mgmt
+MKT301|Principles of Marketing
+COM342|Intercultural Communication
+ACT301|Applied Database Systems
+LAW305|Intro to Theories of Crime
+LAW365|Practicum I
+LAW460|Administration and Planning
+LAW465|Internship
+LAW492|Adv Select CJ: Profiling
+LAW598|Profiling & Behav Analysis
+LAW600|Criminal Law and Evidence
+LAW680|Research and Publication
+LAT335|Introduction to Mediation
+LAT420|Civil Rights Law
+SWK365|Death And Dying
+SWK420|Phil/Policy in Soc Services II
+ECO375|Economics of Health Care
+EDU300|Intro to Early Childhood Educ
+EDU311|Secondary Reading Techniques
+EDU313|Fam, Comm & Sch: Partnering
+EDU314|Trends & Mgmt of Programs
+EDU315|Psychology & Educ of Exc Child
+EDU316|Org, Dev, & Manage Env for EC
+EDU370|Behavior Management
+EDU430|Teaching Stu with Reading Def
+EDU502|Prof Learning Community
+EDU521|Tching Stu w/ Rding Deficits
+EDU571|Fundamentals of ASD
+EDU599|Education Orientation Workshop
+EDU611|Research Dev and Lit Analysis
+EDU630|Capstone
+EDU630|Capstone
+EDU630|Capstone
+EDU677|Adv Methods, Dif & Instruction
+TSL559|Policy, Curric, & Instruct ELL
+TSL561|Second Language Acquisition
+EGT350|Technical Report Writing
+ENG502|Prof Learning Community
+ENG540|Writing for Management
+EPR620|Proposal and Grant Writing
+ETC508|Technical Editing
+PED352|Fitness and Sports Nutrition
+PED388|Community Health
+PED391|Personal & Environmental Hlth
+RSM325|Law for the Rec/Sport Pract.
+RSM344|Travel and Tourism - Rec/Sport
+ALH330|Intro to Epidemiology and Bios
+ALH352|Applied Nutrition
+HIF300|Health Data Management
+HIF310|Clinical Classification System
+HIF330|Legal/Ethical Healthcare Mgmt
+HIF410|Human Resources/Oper Mgmt
+HIF420|Clinical Data Management
+HIF430|Applied Health Informatics
+NUR384|Bridge Baccalaureate Nursing
+NUR385|Health Promotion/Assessment
+NUR395|Nursing Research in Practice
+NUR395|Nursing Research (Honors)
+NUR459|Research Application
+NUR474|Nursing Leadership & Mgt.
+NUR479|RN-BSN Capstone Clinical
+NUR479|RN-BSN Capstone Clinical
+NUR492|Selected Topics In Nursing
+NUR492|Selected Topics In Nursing
+NUR505|Nursing Seminar I
+NUR606|Informatics for Decision Supp
+PSY300|Intro Psychological Statistics
+PSY309|Abnormal Psychology
+PSY355|Sensation and Perception
+PSY365|Social Psychology
