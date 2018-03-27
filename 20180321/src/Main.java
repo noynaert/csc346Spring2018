@@ -12,21 +12,20 @@ public class Main extends Application {
     @Override
     public void start(Stage primaryStage) throws Exception{
 
-        CourseModel model = new CourseModel();
-        ArrayList<Course> list;
-        int n;
-        n = model.buildList("courses.txt");
-        list = model.getArrayList();
-
+        System.out.println("Starting fx");
 
         Parent root = FXMLLoader.load(getClass().getResource("List.fxml"));
         primaryStage.setTitle("Hello World");
-        primaryStage.setScene(new Scene(root, 300, 275));
+        primaryStage.setScene(new Scene(root, 600, 550));
         primaryStage.show();
     }
 
 
     public static void main(String[] args) {
+        //ArrayList<CourseWrapper> list = CourseModel.getArrayList();
+        //System.out.println("List size is " + list.size());
+
+
         launch(args);
     }
 }
