@@ -1,0 +1,1842 @@
+courseId	semester	crn	title	instructor
+RDG095	201910	10821	Reading Skills Improvement	Anderson, C
+RDG095	201910	14256	Reading Skills Improvement	Nelson, N
+RDG095	201910	10823	Reading Skills Improvement	Staff
+RDG095	201910	10827	Reading Skills Improvement	Anderson, C
+RDG095	201910	10825	Reading Skills Improvement	Evans, P
+RDG095	201910	10826	Reading Skills Improvement	Evans, P
+RDG095	201910	14257	Reading Skills Improvement	Nelson, N
+RDG095	201910	12763	Reading Skills Improvement	Staff
+RDG095	201910	10829	Reading Skills Improvement	Anderson, C
+RDG095	201910	14258	Reading Skills Improvement	Nelson, N
+RDG095	201910	10833	Reading Skills Improvement	Sexton, S
+RDG095	201910	10834	Reading Skills Improvement	Sexton, S
+RDG095	201910	11709	Reading Skills Improvement	Voigt, B
+UNV101	201910	14030	Foundations of Univ Experience	Staff
+UNV101	201910	11547	Foundations of Univ Experience	Staff
+UNV101	201910	11548	Foundations of Univ Experience	Staff
+UNV101	201910	11561	Foundations of Univ Experience	Academic Advising Center, S
+UNV101	201910	11555	Foundations of Univ Experience	Staff
+UNV101	201910	11551	Foundations of Univ Experience	Godboldt, S
+UNV101	201910	11552	Foundations of Univ Experience	Staff
+UNV101	201910	11553	Foundations of Univ Experience	Staff
+UNV101	201910	11554	Foundations of Univ Experience	Staff
+UNV101	201910	12876	Foundations of Univ Experience	Staff
+UNV101	201910	11556	Foundations of Univ Experience	Staff
+UNV101	201910	11557	Foundations of Univ Experience	Staff
+UNV101	201910	12461	Foundations of Univ Experience	Staff
+UNV101	201910	11560	Foundations of Univ Experience	Staff
+UNV101	201910	11559	Foundations of Univ Experience	Staff
+UNV101	201910	11600	Foundations of Univ Experience	Staff
+UNV101	201910	11603	Foundations of Univ Experience	Staff
+UNV101	201910	12459	Foundations of Univ Experience	Staff
+UNV101	201910	11546	Foundations of Univ Experience	Staff
+UNV101	201910	12472	Foundations of Univ Experience	Staff
+UNV101	201910	12878	Foundations of Univ Experience	Staff
+UNV101	201910	13691	Foundations of Univ Experience	Staff
+UNV198	201910	14897	The University Experience	Ducey, M
+UNV198	201910	14928	The University Experience	Britton, P
+UNV198	201910	14949	The University Experience	Kendall-Morwick, J
+UNV198	201910	14955	The University Experience	Thorne Wallington, E
+UNV198	201910	14950	The University Experience	Kovacs, M
+UNV198	201910	14956	The University Experience	Moore, W
+UNV198	201910	14929	The University Experience	Hanson, S
+UNV198	201910	14946	The University Experience	Waggoner, C
+UNV198	201910	14947	The University Experience	Waggoner, C
+UNV198	201910	14952	The University Experience	Jackson, J
+UNV198	201910	14953	The University Experience	Atkinson, J
+UNV198	201910	14959	The University Experience	Collins Keller, A
+UNV198	201910	14960	The University Experience	Stewart, S
+ART100	201910	10035	Introduction to Art	Katsanou, V
+ART100	201910	11879	Introduction to Art	Katsanou, V
+ART100	201910	11880	Introduction to Art	Reeber, S
+ART100	201910	13710	Introduction to Art	Brooks, B
+ART110	201910	10038	Beginning Drawing I	Volkan, A
+ART110	201910	10039	Beginning Drawing I	Volkan, A
+ART110	201910	10040	Beginning Drawing I	Christgen, V
+ART110	201910	11903	Beginning Drawing I	Reeber, S
+ART120	201910	10041	Two-Dimensional Design	Christgen, V
+ART120	201910	10042	Two-Dimensional Design	Fuson, E
+ART120	201910	11544	Two-Dimensional Design	Christgen, V
+ART130	201910	10043	Intro to Tools and Techniques	Scroggs, M
+ART130	201910	10044	Intro to Tools and Techniques	Alvarez, R
+ART130	201910	11677	Intro to Tools and Techniques	Alvarez, R
+ART140	201910	10045	Ceramics I	Harris, D
+ART140	201910	14434	Ceramics I	Harris, D
+ART160	201910	10047	Beginning Drawing II	Liao, K
+ART170	201910	10048	Three-Dimensional Design	Fuson, E
+ART205	201910	10049	Survey of Art History I	Rislow, M
+ART210	201910	11634	Animation Fundamentals	Hriso, P
+ART229	201910	10429	Design Software Applications	Hepworth, M
+ART229	201910	14433	Design Software Applications	Britton, P
+ART255	201910	13979	Survey of Art History II	Rislow, M
+ART257	201910	12634	Theory and Criticism Visl Cul	Rislow, M
+ART300	201910	14409	Elem Art Teaching: Phl and Mth	Wood, D
+ART310	201910	10056	Intermediate Drawing	Christgen, V
+ART310	201910	10056	Intermediate Drawing	Christgen, V
+ART315	201910	13390	Illustration I	Hepworth, M
+ART320	201910	10057	Ceramics II	Harris, D
+ART321	201910	12768	Digital 3D Modeling	Hriso, P
+ART326	201910	14692	Introduction to Game Design	Britton, P
+ART329	201910	10059	Graphic Design I	Harris, T
+ART333	201910	10060	Typography	Harris, T
+ART339	201910	10062	Printmaking I	Liao, K
+ART339	201910	10062	Printmaking I	Liao, K
+ART340	201910	10063	Printmaking II	Liao, K
+ART340	201910	10063	Printmaking II	Liao, K
+ART349	201910	10064	Interactive Design I	Hepworth, M
+ART350	201910	14410	Secondary Art Teach: Phl & Mth	Wood, D
+ART359	201910	10066	Photography I	Foley, R
+ART360	201910	10067	Photography II	Foley, R
+ART369	201910	10068	Painting I	Liao, K
+ART370	201910	10069	Painting II	Liao, K
+ART371	201910	14693	Topics in Ancient/Medieval Art	Rislow, M
+ART375	201910	13391	Illustration II	Hepworth, M
+ART379	201910	10070	Sculpture I	Fuson, E
+ART380	201910	10071	Sculpture II	Fuson, E
+ART410	201910	10072	Advanced Drawing	Christgen, V
+ART410	201910	10072	Advanced Drawing	Christgen, V
+ART420	201910	10073	Ceramics III	Harris, D
+ART440	201910	10081	Printmaking III	Liao, K
+ART440	201910	10081	Printmaking III	Liao, K
+ART453	201910	12067	Digital Animation	Britton, P
+ART460	201910	10089	Photography III	Foley, R
+ART470	201910	10090	Painting III	Liao, K
+ART475	201910	13392	Illustration III	Hepworth, M
+ART480	201910	10091	Sculpture III	Fuson, E
+ART492	201910	10092	Graphic Design III	Harris, T
+ART493	201910	10093	Internship In Art	Harris, T
+ART493	201910	10094	Internship In Art	Harris, T
+ART493	201910	10095	Internship In Art	Harris, T
+ART493	201910	10096	Internship In Art	Harris, T
+ART493	201910	10097	Internship In Art	Harris, T
+BIO101	201910	12210	Principles of Biology	Mills, M
+BIO101	201910	12211	Principles of Biology	Chevalier, C
+BIO101	201910	12213	Principles of Biology	Daggett, M
+BIO101	201910	12214	Principles of Biology	Ganong, C
+BIO101	201910	10321	Principles of Biology	Chevalier, C
+BIO101	201910	10322	Principles of Biology	Ganong, C
+BIO101	201910	10323	Principles of Biology	Koy, K
+BIO101	201910	10324	Principles of Biology	Daggett, M
+BIO101	201910	10325	Principles of Biology	Koy, K
+BIO101	201910	10326	Principles of Biology	Chevalier, C
+BIO101	201910	10327	Principles of Biology	Jedlicka, J
+BIO101	201910	10328	Principles of Biology	Ganong, C
+BIO101	201910	10329	Principles of Biology	Jedlicka, J
+BIO101	201910	10330	Principles of Biology	Chevalier, C
+BIO101	201910	10331	Principles of Biology	Daggett, M
+BIO101	201910	10337	Principles of Biology	Staff
+BIO101	201910	10338	Principles of Biology	Jedlicka, J
+BIO101	201910	12216	Principles of Biology	Staff
+BIO101	201910	13938	Principles of Biology	Cabrera, L
+BIO101	201910	13939	Principles of Biology	Cabrera, L
+BIO101	201910	13481	Principles of Biology (Honors)	Daggett, M
+BIO101	201910	13482	Principles Of Biology (Honors)	Daggett, M
+BIO105	201910	13940	Prin of Organismal Biology	Roy, T
+BIO105	201910	13941	Prin of Organismal Biology	Roy, T
+BIO105	201910	13943	Prin of Organismal Biology	Roy, T
+BIO105	201910	13944	Prin of Org Biology (Honors)	Roy, T
+BIO105	201910	13946	Prin of Org Biology (Honors)	Mills, M
+BIO106	201910	10349	Principles of Cell Biology	Barta, C
+BIO106	201910	10350	Principles of Cell Biology	Barta, C
+BIO106	201910	10351	Principles of Cell Biology	Barta, C
+BIO106	201910	10352	Principles of Cell Biology	Barta, C
+BIO205	201910	10353	Genetics	Eckdahl, T
+BIO205	201910	10354	Genetics	Eckdahl, T
+BIO205	201910	10355	Genetics	Eckdahl, T
+BIO207	201910	14270	Human Ecology	Jedlicka, J
+BIO225	201910	12241	Ecology	Mills, M
+BIO225	201910	12242	Ecology	Mills, M
+BIO225	201910	12243	Ecology	Mills, M
+BIO250	201910	10357	Anatomy and Physiology	Rachow, T
+BIO250	201910	10358	Anatomy and Physiology	Rachow, T
+BIO250	201910	10359	Anatomy and Physiology	Rachow, T
+BIO250	201910	10361	Anatomy and Physiology	Walton, K
+BIO250	201910	10362	Anatomy and Physiology	Rachow, T
+BIO250	201910	11667	Anatomy and Physiology	Rachow, T
+BIO250	201910	12122	Anatomy and Physiology	Rachow, T
+BIO251	201910	10363	Med and Public Health Microbio	Grantham, M
+BIO251	201910	12267	Med and Public Health Microbio	Grantham, M
+BIO251	201910	10366	Med and Public Health Microbio	Grantham, M
+BIO251	201910	11929	Med and Public Health Microbio	Grantham, M
+BIO251	201910	14951	Med and Public Health Microbio	Grantham, M
+BIO311	201910	10368	Animal Physiology	Walton, K
+BIO311	201910	10369	Animal Physiology	Walton, K
+BIO311	201910	12894	Animal Physiology	Walton, K
+BIO340	201910	11932	Plant Physiology	Barta, C
+BIO340	201910	13093	Plant Physiology	Barta, C
+BIO350	201910	14965	Plant Systematics	Roy, T
+BIO350	201910	14966	Plant Systematics	Roy, T
+BIO360	201910	14656	Development of Wildlife Law	Chevalier, C
+BIO375	201910	10373	Pathophysiology	Walton, K
+BIO390	201910	10374	Microbiology	Baker, J
+BIO390	201910	10375	Microbiology	Baker, J
+BIO390	201910	10376	Microbiology	Baker, J
+BIO411	201910	13510	Developmental Biology	Daggett, M
+BIO411	201910	13512	Developmental Biology	Daggett, M
+BIO415	201910	14657	Invertebrate Biology	Ganong, C
+BIO415	201910	14658	Invertebrate Biology	Ganong, C
+BIO419	201910	13954	Animal Behavior	Jedlicka, J
+BIO419	201910	13955	Animal Behavior	Jedlicka, J
+BIO420	201910	10392	Biology Teaching Practicum	Eckdahl, T
+BIO420	201910	10394	Biology Teaching Practicum	Ganong, C
+BIO420	201910	12251	Biology Teaching Practicum	Baker, J
+BIO420	201910	12252	Biology Teaching Practicum	Barta, C
+BIO420	201910	13588	Biology Teaching Practicum	Grantham, M
+BIO420	201910	12254	Biology Teaching Practicum	Chevalier, C
+BIO420	201910	12255	Biology Teaching Practicum	Daggett, M
+BIO420	201910	12256	Biology Teaching Practicum	Jedlicka, J
+BIO420	201910	12269	Biology Teaching Practicum	Koy, K
+BIO420	201910	12273	Biology Teaching Practicum	Mills, M
+BIO420	201910	12891	Biology Teaching Practicum	Roy, T
+BIO420	201910	13094	Biology Teaching Practicum	Walton, K
+BIO425	201910	10396	Biology Internship	Chevalier, C
+BIO425	201910	10397	Biology Internship	Chevalier, C
+BIO450	201910	11423	Independent Research/Project	Eckdahl, T
+BIO450	201910	11424	Independent Research/Project	Eckdahl, T
+BIO450	201910	11425	Independent Research/Project	Eckdahl, T
+BIO450	201910	12259	Independent Research/Project	Ganong, C
+BIO450	201910	12260	Independent Research/Project	Baker, J
+BIO450	201910	12261	Independent Research/Project	Barta, C
+BIO450	201910	13429	Independent Research/Project	Grantham, M
+BIO450	201910	12263	Independent Research/Project	Chevalier, C
+BIO450	201910	12264	Independent Research/Project	Daggett, M
+BIO450	201910	12265	Independent Research/Project	Jedlicka, J
+BIO450	201910	12266	Independent Research/Project	Koy, K
+BIO450	201910	12274	Independent Research/Project	Mills, M
+BIO450	201910	12892	Independent Research/Project	Roy, T
+BIO450	201910	13095	Independent Research/Project	Walton, K
+BIO511	201910	13513	Developmental Biology	Daggett, M
+BIO625	201910	13201	Graduate Internship in Biology	Baker, J
+BIO625	201910	13477	Graduate Internship in Biology	Baker, J
+BIO625	201910	13478	Graduate Internship in Biology	Baker, J
+ESC111	201910	11440	Physical Geology	Koy, K
+ESC111	201910	11445	Physical Geology	Koy, K
+ESC111	201910	11446	Physical Geology	Koy, K
+ESC111	201910	11448	Physical Geology	Koy, K
+ESC111	201910	14276	Physical Geology	Koy, K
+PHS230	201910	11439	Physical Science for Elem Teac	Ellis, J
+ACC201	201910	10442	Introductory Financial Acctg	Gunderson, K
+ACC201	201910	10448	Introductory Financial Acctg	Zhang, Y
+ACC201	201910	12816	Introductory Financial Acctg	Adkins, P
+ACC202	201910	10456	Introductory Managerial Acctg	Adkins, P
+ACC202	201910	12817	Introductory Managerial Acctg	Adkins, P
+ACC230	201910	14398	Accounting Techniques	Zhang, Y
+ACC330	201910	10458	Intermediate Accounting I	Gunderson, K
+ACC330	201910	10460	Intermediate Accounting I	Gunderson, K
+ACC333	201910	10463	Cost Accounting	Zhang, Y
+ACC336	201910	10466	Individual Income Tax	Adkins, P
+ACC375	201910	10504	Accounting Internship	Gunderson, K
+ACC375	201910	10505	Accounting Internship	Gunderson, K
+ACC375	201910	10506	Accounting Internship	Gunderson, K
+ACC375	201910	10507	Accounting Internship	Gunderson, K
+ACC375	201910	10508	Accounting Internship	Gunderson, K
+ACC375	201910	10509	Accounting Internship	Gunderson, K
+ACC418	201910	11828	Accounting Information Systems	Yurov, K
+ACC418	201910	11828	Accounting Information Systems	Yurov, K
+ACC418	201910	11826	Accounting Information Systems	Lewis, M
+ACC433	201910	11443	Auditing	Zhang, Y
+ACC435	201910	13534	Advanced Fin & Gov Accounting	Zhang, Y
+ACC450	201910	11855	Independent Research/Project	Staff
+ACC450	201910	11856	Independent Research/Project	Staff
+ACC450	201910	11859	Independent Research/Project	Staff
+ACC450	201910	11860	Independent Research/Project	Staff
+ACC633	201910	14399	Foundations of FIN and ACC	Staff
+ACC633	201910	14945	Foundations of FIN and ACC	Staff
+ENT201	201910	13192	Entrepreneurship I	Ma, D
+FIN210	201910	12827	Personal Finance	Qiu, B
+FIN301	201910	10519	Financial Management	Qiu, B
+FIN301	201910	10520	Financial Management	Chiao, C
+FIN310	201910	10521	Investments	Chiao, C
+FIN310	201910	10521	Investments	Chiao, C
+FIN321	201910	10523	Financial Mkts & Institutions	Qiu, B
+FIN412	201910	10525	Futures and Options	Qiu, B
+FIN431	201910	11848	International Financial Mgt	Chiao, C
+FIN431	201910	11848	International Financial Mgt	Chiao, C
+GBA110	201910	10526	Introduction to Business	Ma, D
+GBA110	201910	12806	Introduction to Business	Staff
+GBA201	201910	13923	Business Analytics & Reporting	Van Hoozer, C
+GBA201	201910	13924	Business Analytics & Reporting	Van Hoozer, C
+GBA201	201910	13925	Business Analytics & Reporting	Van Hoozer, C
+GBA210	201910	10535	Business Statistics I	Samuel, C
+GBA210	201910	10536	Business Statistics I	Tarun, P
+GBA210	201910	13535	Business Statistics I	Samuel, C
+GBA211	201910	10540	Business Law I	Staff
+GBA211	201910	10541	Business Law I	Staff
+GBA211	201910	10543	Business Law I	Moore, J
+GBA211	201910	12818	Business Law I	Ohara, A
+GBA220	201910	10545	Business Communications	Staff
+GBA220	201910	10546	Business Communications	Staff
+GBA220	201910	12814	Business Communications	Jordan, D
+GBA310	201910	10552	Business Statistics II	Samuel, C
+GBA311	201910	10554	Business Law II	Staff
+GBA375	201910	10555	Business Internship	Chiao, C
+GBA375	201910	10556	Business Internship	Chiao, C
+GBA375	201910	10557	Business Internship	Chiao, C
+GBA375	201910	10558	Business Internship	Chiao, C
+GBA375	201910	10559	Business Internship	Chiao, C
+GBA375	201910	10560	Business Internship	Gunderson, K
+GBA445	201910	14931	Business Practicum	Ma, D
+GBA480	201910	10532	Directed Student Research	Chiao, C
+GBA481	201910	10533	Workplace Research	Chiao, C
+MIM613	201910	13262	ERP Fundamentals	Yurov, K
+MIM643	201910	13543	Supply Chain & Cust Relations	Verma, A
+MIM643	201910	13543	Supply Chain & Cust Relations	Verma, A
+MIM643	201910	14942	Supply Chain & Cust Relations	Verma, A
+MIM653	201910	14935	Systems Project Management
+MIM673	201910	13542	EA Technology	Lewis, M
+MGT341	201910	13928	Human Resources Management	Staff
+MGT350	201910	13540	Organizational Behavior	Luthans, B
+MGT350	201910	13191	Organizational Behavior	Luthans, B
+MGT350	201910	12809	Organizational Behavior	Luthans, B
+MGT360	201910	13929	Org Theory, Design, Change Mgt	Kimmel, M
+MGT416	201910	10580	Production and Operations Mgt	Tarun, P
+MGT416	201910	14402	Production and Operations Mgt	Tarun, P
+MGT418	201910	11827	Management Information Systems	Yurov, K
+MGT418	201910	11827	Management Information Systems	Yurov, K
+MGT418	201910	11825	Management Information Systems	Lewis, M
+MGT419	201910	10583	Strategic Management	Staff
+MGT425	201910	10586	International Management	Luthans, B
+MGT444	201910	14932	Org Staffing, Train and Safety	Staff
+MGT604	201910	14948	Organizational Behavior Mgt	Staff
+MGT604	201910	14944	Organizational Behavior Mgt	Staff
+MGT633	201910	14403	Contemporary Issues in Mgmt	Kimmel, M
+MGT633	201910	14943	Contemporary Issues in Mgmt	Kimmel, M
+MGT695	201910	14933	Applied Strategic Management	Staff
+MKT301	201910	10589	Principles of Marketing	Staff
+MKT301	201910	10590	Principles of Marketing	Frank, P
+MKT301	201910	10591	Principles of Marketing	Bell, C
+MKT311	201910	10592	Consumer Behavior	Frank, P
+MKT351	201910	10593	Professional Selling/Sales Mgt	Bell, C
+MKT370	201910	14937	Digital Marketing	Frank, P
+MKT381	201910	10594	Advertising and Promotion	Nandan, S
+MKT401	201910	10595	Marketing Research	Frank, P
+MKT481	201910	10597	Marketing Management	Nandan, S
+MKT605	201910	13932	Strategic Marketing	Nandan, S
+SCM301	201910	13974	Principles of Supply Chain Mgt	Verma, A
+SCM301	201910	14938	Principles of Supply Chain Mgt	Tarun, P
+SCM401	201910	14583	Demand Planning and Management	Verma, A
+SCM411	201910	14552	Transportation and Logistics	Verma, A
+SCM420	201910	14976	Strategic Sourcing	Verma, A
+SCM480	201910	14939	Strategic Supply Chain Mgt	Verma, A
+CHE101	201910	10138	Introductory Chemistry	Svojanovsky, S
+CHE101	201910	10139	Introductory Chemistry	Pilgram, L
+CHE101	201910	10140	Introductory Chemistry	Staff
+CHE101	201910	10141	Introductory Chemistry	Staff
+CHE101	201910	11891	Introductory Chemistry	Staff
+CHE101	201910	12915	Introductory Chemistry	Lorimor, S
+CHE101	201910	12240	Introductory Chemistry	Staff
+CHE101	201910	12270	Introductory Chemistry	Lorimor, S
+CHE104	201910	14974	Fundamentals of Chemistry	Svojanovsky, S
+CHE104	201910	10142	Fundamentals of Chemistry	Svojanovsky, S
+CHE104	201910	10143	Fundamentals of Chemistry	Svojanovsky, S
+CHE111	201910	10146	General Chemistry I	Ducey, M
+CHE111	201910	10146	General Chemistry I	Ducey, M
+CHE111	201910	10147	General Chemistry I	Stasko, D
+CHE111	201910	10148	General Chemistry I	Stasko, D
+CHE111	201910	10149	General Chemistry I	Mikita, N
+CHE111	201910	10150	General Chemistry I	Mikita, N
+CHE111	201910	10151	General Chemistry I	Stasko, D
+CHE111	201910	10152	General Chemistry I	Stasko, D
+CHE111	201910	10153	General Chemistry I (Honors)	Ducey, M
+CHE111	201910	10153	General Chemistry I (Honors)	Ducey, M
+CHE111	201910	10154	General Chemistry I (Honors)	Stasko, D
+CHE112	201910	14695	Problem Solving for Gen Chem I	Ducey, M
+CHE112	201910	14696	Problem Solving for Gen Chem I	Stasko, D
+CHE120	201910	10155	General Chemistry II	Woodford, J
+CHE120	201910	10155	General Chemistry II	Woodford, J
+CHE120	201910	10157	General Chemistry II	Clapp, G
+CHE120	201910	10158	General Chemistry II	Woodford, J
+CHE121	201910	14704	Problem Solving for GenChem II	Woodford, J
+CHE310	201910	10163	Organic Chemistry I	Rhoad, J
+CHE310	201910	14707	Organic Chemistry I	Clapp, G
+CHE311	201910	10164	Organic Chemistry Laboratory I	Rhoad, J
+CHE311	201910	10164	Organic Chemistry Laboratory I	Rhoad, J
+CHE311	201910	10166	Organic Chemistry Laboratory I	Rhoad, J
+CHE311	201910	10166	Organic Chemistry Laboratory I	Rhoad, J
+CHE311	201910	14709	Organic Chemistry Laboratory I	Clapp, G
+CHE311	201910	14709	Organic Chemistry Laboratory I	Clapp, G
+CHE312	201910	10168	Organic Chemistry II	Lorimor, S
+CHE313	201910	10172	Organic Chemistry Lab II	Lorimor, S
+CHE321	201910	10190	Quantitative Analysis	Hiley, S
+CHE321	201910	10191	Quantitative Analysis	Hiley, S
+CHE321	201910	10191	Quantitative Analysis	Hiley, S
+CHE321	201910	14710	Quantitative Analysis	Hiley, S
+CHE321	201910	14710	Quantitative Analysis	Hiley, S
+CHE370	201910	11911	Biochemistry I	Mikita, N
+CHE370	201910	11912	Biochemistry I	Mikita, N
+CHE370	201910	13824	Biochemistry I	Mikita, N
+CHE370	201910	14167	Biochemistry I	Schaeffer, M
+CHE381	201910	14168	P-Chem: Quantum Mechanics	Woodford, J
+CHE381	201910	14168	P-Chem: Quantum Mechanics	Woodford, J
+CHE381	201910	14169	P-Chem: Quantum Mech (Honors)	Woodford, J
+CHE381	201910	14169	P-Chem: Quantum Mech (Honors)	Woodford, J
+CHE382	201910	14170	P-Chem Lab: Quantum Mechanics	Woodford, J
+CHE450	201910	10199	Independent Research/Project	Hiley, S
+CHE450	201910	10200	Independent Research/Project	Ducey, M
+CHE450	201910	10201	Independent Research/Project	Ducey, M
+CHE490	201910	10205	Research in Chemistry	Stasko, D
+CHE490	201910	10206	Research in Chemistry	Stasko, D
+CHE490	201910	10207	Research in Chemistry	Stasko, D
+CHE490	201910	12670	Research in Chemistry	Ducey, M
+CHE490	201910	12671	Research in Chemistry	Ducey, M
+CHE490	201910	12672	Research in Chemistry	Ducey, M
+CHE490	201910	12673	Research in Chemistry	Hiley, S
+CHE490	201910	12675	Research in Chemistry	Hiley, S
+CHE490	201910	12676	Research in Chemistry	Hiley, S
+CHE490	201910	12678	Research in Chemistry	Lorimor, S
+CHE490	201910	12679	Research in Chemistry	Lorimor, S
+CHE490	201910	12680	Research in Chemistry	Lorimor, S
+CHE490	201910	12681	Research in Chemistry	Rhoad, J
+CHE490	201910	12682	Research in Chemistry	Rhoad, J
+CHE490	201910	12684	Research in Chemistry	Rhoad, J
+CHE490	201910	12686	Research in Chemistry	Mikita, N
+CHE490	201910	12688	Research in Chemistry	Mikita, N
+CHE490	201910	12689	Research in Chemistry	Mikita, N
+CHE490	201910	12695	Research in Chemistry	Woodford, J
+CHE490	201910	12698	Research in Chemistry	Woodford, J
+CHE490	201910	12700	Research in Chemistry	Woodford, J
+CHE490	201910	12702	Research in Chemistry	Svojanovsky, S
+CHE490	201910	12704	Research in Chemistry	Svojanovsky, S
+CHE490	201910	12705	Research in Chemistry	Svojanovsky, S
+CHE490	201910	10210	Research In Chemistry (Honors)	Ducey, M
+CHE490	201910	10211	Research In Chemistry (Honors)	Ducey, M
+CHE490	201910	10212	Research In Chemistry (Honors)	Ducey, M
+CHE495	201910	10208	Seminar in Chemistry	Clapp, G
+CHE530	201910	14711	Principles of Quality Assuranc	Svojanovsky, S
+CHE675	201910	14608	Grad Internship in Chemistry	Lorimor, S
+CLS413	201910	13889	Clinical Endocrinology and Tox	Ducey, M
+CLS414	201910	13890	Clinical Chem/Urinalysis I	Ducey, M
+CLS416	201910	13891	Clinical Hematology I	Ducey, M
+CLS418	201910	13892	Clinical Microbiology I	Ducey, M
+CLS420	201910	13893	Clinical Immunology and Molecu	Ducey, M
+CLS422	201910	13894	Clinical Immunohematology I	Ducey, M
+CLS430	201910	13895	Clinical Lab Management I	Ducey, M
+CLS442	201910	13896	Clin Immunohematology Lab I	Ducey, M
+CLS444	201910	13897	Clinical Core Lab Prac I	Ducey, M
+CLS448	201910	13898	Clinical Micro Lab Prac I	Ducey, M
+MTE432	201910	10332	Clinical Chemistry	Ducey, M
+MTE432	201910	13286	Clinical Chemistry	Ducey, M
+MTE438	201910	13232	Clinical Immunology	Ducey, M
+MTE438	201910	13287	Clinical Immunology	Ducey, M
+MTE440	201910	13288	Clinical Urinalysis	Ducey, M
+MTE442	201910	13233	Topics in Medical Technology	Ducey, M
+COM104	201910	14618	Oral Communication	Brooks, W
+COM104	201910	13712	Oral Communication	Bond, C
+COM104	201910	10698	Oral Communication	Harris, S
+COM104	201910	10699	Oral Communication	Zhang, M
+COM104	201910	13531	Oral Communication	McMahan, D
+COM104	201910	10703	Oral Communication	Capps, R
+COM104	201910	10704	Oral Communication	McMahan, D
+COM104	201910	10705	Oral Communication	Capps, R
+COM104	201910	12125	Oral Communication	Brooks, W
+COM104	201910	14185	Oral Communication	Bond, C
+COM104	201910	13098	Oral Communication	Harris, S
+COM104	201910	10692	Oral Communication	Jackson, J
+COM104	201910	14718	Oral Communication	Atkinson, J
+COM104	201910	10709	Oral Communication (Honors)	Atkinson, J
+COM205	201910	13471	Introduction to Mass Media	Carviou, J
+COM210	201910	10710	Presentational Communication	Jackson, J
+COM222	201910	10711	Communication Theory	McMahan, D
+COM227	201910	14174	Interviewing Prin and Practice	Bond, C
+COM305	201910	10714	Interpersonal Communications	McMahan, D
+COM320	201910	10717	Res Methods in Communication	Harris, S
+COM338	201910	10719	Survey of Rhetorical Theory	Zhang, M
+COM342	201910	10722	Intercultural Communication	Zhang, M
+COM359	201910	12974	Workplace Analysis	Harris, S
+COM412	201910	13099	Health Communication	Bond, C
+COM415	201910	10725	Public Relations Campaigns	Jackson, J
+COM460	201910	10734	Communication Internship II	Harris, S
+COM460	201910	10735	Communication Internship II	Harris, S
+COM460	201910	10736	Communication Internship II	Harris, S
+COM477	201910	13517	Client Management & Practices	Jackson, J
+COM481	201910	10737	Senior Portfolio	Bond, C
+COM601	201910	12426	Prof and Org Communications	Atkinson, J
+JOU104	201910	13100	Intro to Digital Photography	Nulph, R
+JOU202	201910	13102	Reporting for the Media	Bergland, R
+JOU204	201910	14660	Intro to Broadcast Journalism	Nulph, R
+JOU210	201910	10807	Journ Lab:Newspaper Production	Bergland, R
+JOU212	201910	10808	Journ Lab:Yearbook Production	Carviou, J
+JOU214	201910	10809	Journalism Lab: Broadcast Prod	Nulph, R
+JOU214	201910	10809	Journalism Lab: Broadcast Prod	Nulph, R
+JOU224	201910	13112	Web Content and Design	Carviou, J
+JOU310	201910	10812	Journ Lab:Newspaper Management	Bergland, R
+JOU310	201910	10812	Journ Lab:Newspaper Management	Bergland, R
+JOU312	201910	10813	Journ Lab:Yearbook Management	Carviou, J
+JOU316	201910	13469	Internship in Journalism	Harris, S
+JOU316	201910	10815	Internship in Journalism	Harris, S
+JOU316	201910	10816	Internship in Journalism	Harris, S
+JOU316	201910	10817	Internship in Journalism	Harris, S
+JOU316	201910	13470	Internship in Journalism	Harris, S
+JOU327	201910	10819	Publication Design	Bergland, R
+ACT102	201910	10251	Intro to Web Page Development	Lawson, G
+ACT102	201910	10253	Intro to Web Page Development	Lawson, G
+ACT211	201910	12298	Internet Scripting	Hecker, C
+ACT301	201910	12113	Applied Database Systems	Noynaert, J
+ACT405	201910	11961	Business Intelligence	Hecker, C
+CSC184	201910	10257	Computing Concepts I	Kendall-Morwick, J
+CSC184	201910	10258	Computing Concepts I	Kendall-Morwick, J
+CSC200	201910	11575	Computer Systems and Architect	Noynaert, J
+CSC201	201910	13234	Microcomputer Applications	Noynaert, J
+CSC208	201910	10265	Discrete Structures I	Kwok, Y
+CSC245	201910	10266	Enterprise Sys Comp: COBOL I	Hecker, C
+CSC254	201910	10267	Computing Concepts II	Noynaert, J
+CSC294	201910	12317	Networking and Telecommunicati	Lawson, G
+CSC328	201910	11962	Computer Graphics	Pickett, H
+CSC384	201910	11972	Comp Architect & Assembly Lang	Yan, B
+CSC400	201910	10271	Systems Analysis and Design	Hecker, C
+CSC406	201910	12328	Obj Oriented App and Prog Dev	Pickett, H
+CSC410	201910	12329	Network Security Technologies	Lawson, G
+CSC450	201910	13329	Independent Research/Project	Yan, B
+CSC450	201910	13603	Independent Research/Project	Kendall-Morwick, J
+CSC450	201910	10276	Independent Research/Project	Noynaert, J
+CSC450	201910	13604	Independent Research/Project	Hecker, C
+CSC450	201910	13605	Independent Research/Project	Pickett, H
+CSC450	201910	14680	Independent Research/Project	Kwok, Y
+CSC450	201910	14738	Independent Research/Project	Lawson, G
+CSC451	201910	10279	Internship in Computer Science	Hecker, C
+CSC520	201910	14900	Adv Networking/Network Admin	Kwok, Y
+CSC550	201910	13633	Applied Cryptography	Yan, B
+CSC570	201910	14293	Ethical Hacking	Yan, B
+CSC605	201910	14682	Software Implement and Integra	Kendall-Morwick, J
+CSC625	201910	14294	Network Info Systems Security	Kwok, Y
+CSC660	201910	13324	Graduate Internship	Staff
+MAT083	201910	10631	Foundations/Univ Math II	Hansbrough, J
+MAT083	201910	10632	Foundations/Univ Math II	Hansbrough, J
+MAT083	201910	10633	Foundations/Univ Math II	Brown, R
+MAT083	201910	14808	Foundations/Univ Math II	McWilliams, D
+MAT083	201910	14809	Foundations/Univ Math II	McWilliams, D
+MAT083	201910	14810	Foundations/Univ Math II	Hansbrough, J
+MAT083	201910	14280	Foundations/Univ Math II	Hansbrough, J
+MAT083	201910	14770	Foundations/Univ Math II	Brown, R
+MAT083	201910	14771	Foundations/Univ Math II	McWilliams, D
+MAT083	201910	14772	Foundations/Univ Math II	McWilliams, D
+MAT083	201910	14281	Foundations/Univ Math II	Davison, C
+MAT083	201910	14773	Foundations/Univ Math II	Davison, C
+MAT083	201910	14285	Foundations/Univ Math II	Gallagher, S
+MAT083	201910	14286	Foundations/Univ Math II	Gallagher, S
+MAT110	201910	10282	Contemporary Problem Solving	Boring, M
+MAT110	201910	10284	Contemporary Problem Solving	Poet, J
+MAT110	201910	13614	Contemporary Problem Solving	Brown, R
+MAT110	201910	14958	Contemporary Problem Solving	Chester, L
+MAT110	201910	13617	Contemporary Problem Solving	Bucher, M
+MAT110	201910	14776	Contemporary Problem Solving	McCune, L
+MAT110	201910	13621	Contemporary Problem Solving	Bucher, M
+MAT110	201910	14962	Contemporary Problem Solving	Waters, G
+MAT110E	201910	14347	Contemporary Problem Solving	Boring, M
+MAT110E	201910	14349	Contemporary Problem Solving	Poet, J
+MAT110E	201910	14350	Contemporary Problem Solving	Brown, R
+MAT110E	201910	14775	Contemporary Problem Solving	Chester, L
+MAT110E	201910	14352	Contemporary Problem Solving	Bucher, M
+MAT110E	201910	14777	Contemporary Problem Solving	McCune, L
+MAT110E	201910	14354	Contemporary Problem Solving	Bucher, M
+MAT110E	201910	14355	Contemporary Problem Solving	Chester, L
+MAT110E	201910	14356	Contemporary Problem Solving	Chester, L
+MAT110E	201910	14357	Contemporary Problem Solving	McWilliams, D
+MAT110E	201910	14358	Contemporary Problem Solving	McWilliams, D
+MAT110E	201910	14779	Contemporary Problem Solving	McCune, L
+MAT110E	201910	14368	Contemporary Problem Solving	Brown, R
+MAT110E	201910	14780	Contemporary Problem Solving	Brown, R
+MAT110E	201910	14963	Contemporary Problem Solving	Waters, G
+MAT110E	201910	14964	Contemporary Problem Solving	Waters, G
+MAT111	201910	14788	Introductory Statistics	Staff
+MAT111	201910	14789	Introductory Statistics	Staff
+MAT111	201910	14790	Introductory Statistics	Anderson, K
+MAT111	201910	14791	Introductory Statistics	Klassen, S
+MAT111	201910	14792	Introductory Statistics	Klassen, S
+MAT111E	201910	14793	Introductory Statistics	Staff
+MAT111E	201910	14794	Introductory Statistics	Staff
+MAT111E	201910	14795	Introductory Statistics	Anderson, K
+MAT111E	201910	14796	Introductory Statistics	Klassen, S
+MAT111E	201910	14797	Introductory Statistics	Klassen, S
+MAT111E	201910	14798	Introductory Statistics	Hansbrough, J
+MAT111E	201910	14799	Introductory Statistics	Hansbrough, J
+MAT112	201910	14333	Finite Mathematics	Chester, L
+MAT112	201910	13963	Finite Mathematics	Chester, L
+MAT112	201910	13964	Finite Mathematics	Rice, G
+MAT116	201910	10293	College Algebra	Anderson, K
+MAT116	201910	10294	College Algebra	Boring, M
+MAT116	201910	11978	College Algebra	Anderson, K
+MAT116	201910	13967	College Algebra	Staff
+MAT116	201910	14336	College Algebra	Staff
+MAT116	201910	10301	College Algebra	Rice, G
+MAT119	201910	10474	Trigonometry	Bucher, M
+MAT119	201910	12642	Trigonometry	McCune, L
+MAT119	201910	14781	Trigonometry	McCune, L
+MAT147	201910	10479	Applied Calculus	Waters, G
+MAT147	201910	10479	Applied Calculus	Waters, G
+MAT165	201910	12644	Calc w/ Analytic Geom I: Diff	Bucher, M
+MAT167	201910	10480	Calculus/Analytic Geometry I	Staff
+MAT167	201910	10480	Calculus/Analytic Geometry I	Staff
+MAT177	201910	10482	Calculus/Analytic Geometry II	Rice, G
+MAT177	201910	10482	Calculus/Analytic Geometry II	Rice, G
+MAT206	201910	12646	Mathematical Transitions	Anderson, K
+MAT263	201910	14782	History of Mathematics	Hegeman, J
+MAT317	201910	14783	Differential Equations	Waters, G
+MAT352	201910	10488	Math Elem/Middle Teachers I	Poet, J
+MAT352	201910	14042	Math Elem/Middle Teachers I	McCune, L
+MAT416	201910	14784	Abstract Algebra	Poet, J
+MAT450	201910	13238	Independent Research/Project	Staff
+MAT451	201910	14107	Internship in Mathematics	Staff
+MAT465	201910	14786	Math Teaching:Methods & Matrls	Hegeman, J
+MAT609	201910	12802	Tech, Analysis/Decision Making	Klassen, S
+PHY104	201910	14295	Introduction to Astronomy	Bucklein, B
+PHY104	201910	11211	Introduction to Astronomy	Bucklein, B
+PHY104	201910	11212	Introduction to Astronomy	Bucklein, B
+PHY104	201910	11213	Introduction to Astronomy	Godfrey, C
+PHY104	201910	11214	Introduction to Astronomy	Godfrey, C
+PHY104	201910	11210	Introduction to Astronomy	Godfrey, C
+PHY104	201910	14666	Intro to Astronomy (Honors)	Bucklein, B
+PHY110	201910	11216	College Physics I	Sithole, A
+PHY110	201910	11217	College Physics I	Sithole, A
+PHY110	201910	11218	College Physics I	Sithole, A
+PHY110	201910	11219	College Physics I	Sithole, A
+PHY110	201910	14321	College Physics I	Sithole, A
+PHY210	201910	11220	University Physics I	Bucklein, B
+PHY210	201910	11221	University Physics I	Bucklein, B
+PHY312	201910	13880	University Physics III	Sithole, A
+PHY313	201910	14327	Modern Physics Laboratory	Sithole, A
+LAW100	201910	11504	Intro to Criminal Justice	Marble, D
+LAW100	201910	11503	Intro to Criminal Justice	Marble, D
+LAW100	201910	11502	Intro to Criminal Justice	Marble, D
+LAW100	201910	14400	Intro to Criminal Justice	Marble, D
+LAW100	201910	13208	Intro to Criminal Justice	Marble, D
+LAW110	201910	11507	Intro to Juvenile Justice	Lindsteadt, G
+LAW110	201910	12166	Intro to Juvenile Justice	Lindsteadt, G
+LAW110	201910	12414	Intro to Juvenile Justice	Lindsteadt, G
+LAW130	201910	11508	Introduction to Policing	Vecchi, G
+LAW140	201910	11509	Traffic Control and Acc Inv	Wilson, K
+LAW190	201910	12402	Criminal Investigation	Smith, M
+LAW200	201910	11510	Introduction to Corrections	Godboldt, S
+LAW260	201910	11513	Criminal Law	Staff
+LAW275	201910	14882	Police Photography	Wilson, M
+LAW280	201910	14890	Criminalistics	Wilson, K
+LAW280	201910	14890	Criminalistics	Wilson, K
+LAW280	201910	14891	Criminalistics	Wilson, K
+LAW280	201910	14893	Criminalistics	Wilson, K
+LAW300	201910	12849	CJ Communications	Vecchi, G
+LAW305	201910	13211	Intro to Theories of Crime	Godboldt, S
+LAW325	201910	13212	Understanding Research in CJ	Marble, D
+LAW365	201910	13214	Practicum I	Kissock, S
+LAW405	201910	12403	Research Methods	Clary, P
+LAW405	201910	14394	Research Methods (Honors)	Clary, P
+LAW410	201910	11534	Intermediate Criminal Law	Marble, D
+LAW420	201910	11535	Quantitative Analysis in CJ	Lindsteadt, G
+LAW420	201910	14396	Quantitative Analysis (Honors)	Lindsteadt, G
+LAW450	201910	13640	Independent Research/Project	Vecchi, G
+LAW450	201910	14626	Independent Research/Project	Lindsteadt, G
+LAW450	201910	12977	Independent Research/Project	Lindsteadt, G
+LAW450	201910	14145	Independent Research/Project	Tushaus, D
+LAW460	201910	11539	Administration and Planning	Vecchi, G
+LAW465	201910	11540	Internship	Kissock, S
+LAW470	201910	11541	Senior Seminar	Godboldt, S
+LAW492	201910	14392	Adv Select CJ: Profiling	Vecchi, G
+LAW520	201910	14028	Quantitative Analysis	Staff
+LAW598	201910	14895	Profiling & Behav Analysis	Vecchi, G
+LAW600	201910	12078	Criminal Law and Evidence	Smith, M
+LAW620	201910	12851	Biological Evidence	McGill Carroll, K
+LAW680	201910	14643	Research and Publication	Vecchi, G
+LAW680	201910	14011	Research and Publication	Smith, M
+LAT101	201910	14012	Introduction to Law	Tushaus, D
+LAT101	201910	12842	Introduction to Law	Tushaus, D
+LAT101	201910	12840	Introduction to Law	Tushaus, D
+LAT101	201910	11487	Introduction to Law	Tushaus, D
+LAT101	201910	14382	Introduction to Law	McKinley, J
+LAT115	201910	11489	Paralegal Studies	Kissock, T
+LAT220	201910	11490	Legal Research	Staff
+LAT250	201910	11492	Legal Computer Applications	Kissock, S
+LAT310	201910	11493	Legal Drafting	Judah, B
+LAT335	201910	11496	Introduction to Mediation	Van Becelaere, A
+LAT335	201910	11850	Introduction to Mediation	Van Becelaere, A
+LAT400	201910	14901	Advanced Legal Research	Tushaus, D
+LAT420	201910	14902	Civil Rights Law	Tushaus, D
+POL150	201910	11589	Police Methods and Operations	Wilson, K
+POL150	201910	12186	Police Methods and Operations	Wilson, K
+POL150	201910	12186	Police Methods and Operations	Wilson, K
+POL150	201910	12187	Police Methods and Operations	Wilson, K
+POL150	201910	12187	Police Methods and Operations	Wilson, K
+POL150	201910	12437	Police Methods and Operations	Wilson, K
+POL150	201910	12437	Police Methods and Operations	Wilson, K
+SWK250	201910	12066	Introduction to Social Work	Frye, J
+SWK325	201910	12046	Family and Child Welfare	Endres, R
+SWK330	201910	12047	Human Behav & Social Enviro I	Endres, R
+SWK345	201910	12419	Substance Use and Disorders	Kline, J
+SWK350	201910	10104	Social Work Practice I	Clary, P
+SWK350	201910	10428	Social Work Practice I	Clary, P
+SWK350	201910	11576	Social Work Practice I	Clary, P
+SWK365	201910	12418	Death And Dying	McClintick, A
+SWK415	201910	12073	Social Work Practice III	Endres, R
+SWK415	201910	12073	Social Work Practice III	Endres, R
+SWK420	201910	12048	Phil/Policy in Soc Services II	Endres, R
+SWK425	201910	14397	Bridge to Practicum	Clary, P
+SWK450	201910	13965	Independent Research/Project	Clary, P
+SWK450	201910	12837	Independent Research/Project	Clary, P
+SWK480	201910	13634	Practicum in Social Work	Frye, J
+SWK485	201910	13635	Social Work Practicum Seminar	Frye, J
+ECO101	201910	13000	Current Issues in the Economy	McMurry, P
+ECO101	201910	13001	Current Issues in the Economy	McMurry, P
+ECO101	201910	14288	Current Issues in the Economy	McMurry, P
+ECO260	201910	14277	Principles of Macroeconomics	Holland, J
+ECO260	201910	14278	Principles of Macroeconomics	Holland, J
+ECO260	201910	14282	Principles of Macroeconomics	Batabyal, S
+ECO261	201910	14283	Principles of Microeconomics	Hamzaee, R
+ECO261	201910	14284	Principles of Microeconomics	Hamzaee, R
+ECO261	201910	14292	Principles of Microeconomics	Hamzaee, R
+ECO261	201910	14740	Principles of Microeconomics	Holland, J
+ECO261	201910	14741	Principles of Microeconomics	Batabyal, S
+ECO361	201910	13013	Intermediate Microeconomics	McMurry, P
+ECO362	201910	13014	Public Finance	Holland, J
+ECO363	201910	13653	Money and Banking	Hamzaee, R
+ECO367	201910	14742	Urban and Regional Economics	Batabyal, S
+ECO375	201910	13016	Economics of Health Care	Staff
+ECO450	201910	13017	Independent Research/Project	Staff
+ECO460	201910	14291	Business and Econ Forecasting	Batabyal, S
+PSC100	201910	14714	Current Issues in Politics	Euchner, J
+PSC101	201910	13024	American National Government	Taylor, E
+PSC101	201910	13025	American National Government	Staff
+PSC101	201910	13027	American National Government	Kovacs, M
+PSC101	201910	14715	American National Government	Staff
+PSC101	201910	13029	American National Government	Euchner, J
+PSC101	201910	13030	American National Government	Kovacs, M
+PSC110	201910	13031	American State and Local Gov	Euchner, J
+PSC111	201910	14243	Undrstding the MO Constitution	Taylor, E
+PSC210	201910	13032	Comparative Political Systems	Kovacs, M
+PSC300	201910	14716	Voters and Elections	Euchner, J
+PSC310	201910	13034	Political Theory	Kovacs, M
+PSC397	201910	14941	Popular Film & Amer Politics	Taylor, E
+PSC400	201910	14717	American Foreign Policy	Staff
+PSC450	201910	13690	Independent Research/Project	Staff
+PSC490	201910	13403	Capstone Practicum in Poli Sci	Euchner, J
+PSC490	201910	13404	Capstone Practicum in Poli Sci	Euchner, J
+PSC490	201910	13406	Capstone Practicum in Poli Sci	Euchner, J
+PSC490	201910	13408	Capstone Practicum in Poli Sci	Euchner, J
+PSC490	201910	13409	Capstone Practicum in Poli Sci	Euchner, J
+PSC490	201910	13413	Capstone Practicum in Poli Sci	Euchner, J
+PSC490	201910	13414	Capstone Practicum in Poli Sci	Euchner, J
+PSC490	201910	13415	Capstone Practicum in Poli Sci	Euchner, J
+PSC490	201910	13416	Capstone Practicum in Poli Sci	Euchner, J
+PSC490	201910	13417	Capstone Practicum in Poli Sci	Euchner, J
+SOC110	201910	13039	Introduction to Sociology	Kamali, A
+SOC110	201910	13040	Introduction to Sociology	Kamali, A
+SOC110	201910	13044	Introduction to Sociology	Kibirige, J
+SOC110	201910	14980	Intro to Sociology (Honors)	Kamali, A
+SOC120	201910	13046	General Anthropology	Kibirige, J
+SOC200	201910	13047	Introduction to Archaeology	Albright, J
+SOC230	201910	14722	Social Problems	Kamali, A
+SOC430	201910	13049	Criminology	Kibirige, J
+SOC440	201910	13050	Sociological Theory	Kibirige, J
+SOC460	201910	13052	Methods of Social Research	Kamali, A
+SOC460	201910	13052	Methods of Social Research	Kamali, A
+EDU110	201910	14661	EDU Orientation Workshop	Shepherd, D
+EDU200	201910	14662	Transition Topics in EDU	Shepherd, D
+EDU202	201910	10110	Introduction to Education	Staff
+EDU202	201910	10160	Introduction to Education	Staff
+EDU202	201910	14625	Introduction to Education	Staff
+EDU203	201910	10169	Participation in Teaching I	Kelly, R
+EDU203	201910	10171	Participation in Teaching I	Kelly, R
+EDU203	201910	10173	Participation in Teaching I	Kelly, R
+EDU203	201910	10175	Participation in Teaching I	Kelly, R
+EDU225	201910	13768	Educational Psychology	Shepherd, D
+EDU225	201910	13769	Educational Psychology	Shepherd, D
+EDU300	201910	14192	Intro to Early Childhood Educ	Chesney, R
+EDU303	201910	10180	Experience in Teaching II	Kelly, R
+EDU303	201910	10181	Experience in Teaching II	Kelly, R
+EDU303	201910	10182	Experience in Teaching II	Kelly, R
+EDU303	201910	10183	Experience in Teaching II	Kelly, R
+EDU303	201910	10111	Experience in Teaching II	Kelly, R
+EDU304	201910	10184	Applied Methods and Mgt	Smilie, K
+EDU304	201910	11207	Applied Methods and Mgt	Irvine, D
+EDU308	201910	13770	Multicultural Education	Johnson, A
+EDU308	201910	14970	Multicultural Education	Johnson, A
+EDU310	201910	10189	Introduction to Reading	Thorne Wallington, E
+EDU310	201910	10113	Introduction to Reading	Thorne Wallington, E
+EDU311	201910	13772	Secondary Reading Techniques	Smilie, K
+EDU312	201910	14663	Sec Rdg Tech Practicum	Smilie, K
+EDU313	201910	13432	Fam, Comm & Sch: Partnering	Staff
+EDU314	201910	13433	Trends & Mgmt of Programs	Staff
+EDU315	201910	13773	Psychology & Educ of Exc Child	Potts, E
+EDU315	201910	13774	Psychology & Educ of Exc Child	Potts, E
+EDU316	201910	14194	Org, Dev, & Manage Env for EC	Staff
+EDU320	201910	10652	Language Arts Methods	Thorne Wallington, E
+EDU320	201910	10114	Language Arts Methods	Thorne Wallington, E
+EDU330	201910	10653	Sci Methods in EC/Elem/Mid Sch	Ellis, J
+EDU332	201910	13805	Teaching in Integrated Areas	Chesney, R
+EDU332	201910	13827	Teaching in Integrated Areas	Staff
+EDU340	201910	10656	Social Studies Methods Elem/MS	Irvine, D
+EDU340	201910	14193	Social Studies Methods Elem/MS	Irvine, D
+EDU342	201910	10657	Evaluation of Abilities/Achiev	Potts, E
+EDU348	201910	13441	Language Development for Ed	Bashinski, S
+EDU351	201910	12302	Mathematics Methods	Gregory, B
+EDU351	201910	12303	Mathematics Methods	Gregory, B
+EDU360	201910	10662	Assess & Individualizing Readi	Staff
+EDU370	201910	11628	Behavior Management	Shepherd, D
+EDU374	201910	13174	Literacy Development in Early	Thorne Wallington, E
+EDU375	201910	13775	Teaching Reading in Elem Sch	Staff
+EDU375	201910	13776	Teaching Reading in Elem Sch	Staff
+EDU391	201910	13435	Curr Methods and Mat in EC Ed	Chesney, R
+EDU392	201910	13436	Exp in Early Childhood Educ	Kelly, R
+EDU392	201910	13437	Exp in Early Childhood Educ	Kelly, R
+EDU392	201910	13438	Exp in Early Childhood Educ	Kelly, R
+EDU400	201910	13806	Sem in EC and Human Relations	Chesney, R
+EDU403	201910	10129	Seminar in Elem Educ & Hum Rel	Irvine, D
+EDU404	201910	10132	Seminar in Sec Educ & Hum Rel	Smilie, K
+EDU408	201910	10670	Elem Student Teaching III	Kelly, R
+EDU409	201910	10860	Secondary Student Teaching III	Kelly, R
+EDU420	201910	13443	Counseling Techniques/Parents	Potts, E
+EDU430	201910	13807	Teaching Stu with Reading Def	Smilie, K
+EDU462	201910	13778	Early Ch Student Teaching III	Kelly, R
+EDU470	201910	14586	ELL Practicum	Kelly, R
+EDU483	201910	11037	Practicum I in Reading	Thorne Wallington, E
+EDU484	201910	14664	Practicum II in Reading	Thorne Wallington, E
+EDU502	201910	14899	Prof Learning Community	Martens, S
+EDU521	201910	14069	Tching Stu w/ Rding Deficits	Smilie, K
+EDU571	201910	14871	Fundamentals of ASD	Bashinski, S
+EDU599	201910	14665	Education Orientation Workshop	Shepherd, D
+EDU611	201910	13851	Research Dev and Lit Analysis	Staff
+EDU630	201910	14053	Capstone	Martens, S
+EDU630	201910	11055	Capstone	Bashinski, S
+EDU630	201910	13468	Capstone	Bashinski, S
+EDU630	201910	12451	Capstone	Bashinski, S
+EDU677	201910	14802	Adv Methods, Dif & Instruction	Potts, E
+TSL459	201910	13829	Pol, Curr, and Instr for ELLs	Johnson, A
+TSL467	201910	11616	Second Language Acquisition	Johnson, A
+TSL559	201910	13679	Policy, Curric, & Instruct ELL	Johnson, A
+TSL561	201910	13439	Second Language Acquisition	Johnson, A
+TSL665	201910	14196	Practicum in ELL: Elementary	Johnson, A
+TSL667	201910	14197	Practicum in ELL: Secondary	Johnson, A
+CET105	201910	10502	Construction Materials	Moore, W
+CET308	201910	10548	Analysis of Structures	Qiao, L
+CET315	201910	12277	Mechanical Systems	Moore, W
+CET315	201910	12278	Mechanical Systems	Moore, W
+CET351	201910	14986	Construction Estimating I	Kisi, K
+CET351	201910	14987	Construction Estimating I	Kisi, K
+CET358	201910	10553	Structural Steel and Wood Dsgn	Qiao, L
+CET360	201910	10567	Construction Management	Kisi, K
+CET390	201910	14694	Technological Projects	Qiao, L
+CET390	201910	12471	Technological Projects	Staff
+CET451	201910	14702	Construction Estimating II	Kisi, K
+CET451	201910	14703	Construction Estimating II	Kisi, K
+CET458	201910	10741	Soil Mechanics and Foundations	Qiao, L
+CET458	201910	13476	Soil Mechanics and Foundations	Qiao, L
+EET100	201910	11917	Electrical Circuits I	Zhang, Z
+EET100	201910	11963	Electrical Circuits I	Zhang, Z
+EET100	201910	11964	Electrical Circuits I	Tang, S
+EET206	201910	10745	Introduction to Microcomputers	Tang, S
+EET206	201910	10746	Introduction to Microcomputers	Tang, S
+EET212	201910	10747	Intro to Semiconductor Devices	Zhu, J
+EET212	201910	10748	Intro to Semiconductor Devices	Zhu, J
+EET342	201910	10749	Analog Communications Systems	Tang, S
+EET342	201910	10750	Analog Communications Systems	Tang, S
+EET390	201910	10751	Technological Projects	Zhu, J
+EET402	201910	10754	Microcomputer Systems	Zhang, Z
+EET402	201910	10755	Microcomputer Systems	Zhang, Z
+EET452	201910	10758	Automation and Proc Ctrl Tech	Zhang, Z
+EET452	201910	10759	Automation and Proc Ctrl Tech	Zhang, Z
+EGT102	201910	12015	Programming for Eng Tech	Tang, S
+EGT103	201910	11906	Elec Engineer Tech Fund	Yang, X
+EGT110	201910	14723	ET Fund and Critical Thinking	Yang, X
+EGT202	201910	11131	Surveying I	Stutterheim, K
+EGT202	201910	11135	Surveying I	Stutterheim, K
+EGT205	201910	11144	Computer-Aided Drafting I	Burnich, W
+EGT205	201910	11145	Computer-Aided Drafting I	Burnich, W
+EGT205	201910	11138	Computer-Aided Drafting I	Moore, W
+EGT220	201910	11191	Engineering Materials	Yang, X
+EGT260	201910	11192	Statics	Qiao, L
+EGT265	201910	12279	Engineering Statics	Qiao, L
+EGT350	201910	13196	Technical Report Writing	Jordan, E
+EGT390	201910	14726	ET Seminar	Zhu, J
+EGT400	201910	14727	Dynamics	Yang, X
+EGT490	201910	11193	Engineering Technology Interns	Zhu, J
+EGT490	201910	11194	Engineering Technology Interns	Zhu, J
+EGT490	201910	13935	Engineering Technology Interns	Zhu, J
+EGT490	201910	11196	Engineering Technology Interns	Zhu, J
+EGT520	201910	11908	Project and Process Management	Kisi, K
+EGT530	201910	14728	Current Advancements in EGT	Yang, X
+EGT690	201910	11845	Engineering Tech Research	Yang, X
+EGT690	201910	13702	Engineering Tech Research	Zhu, J
+EGT690	201910	13936	Engineering Tech Research	Qiao, L
+EGT690	201910	14332	Engineering Tech Research	Staff
+EGT690	201910	14524	Engineering Tech Research	Kisi, K
+MET100	201910	11198	Electrical Circuits for Manufa	Zhang, Z
+MET100	201910	11199	Electrical Circuits for Manufa	Zhang, Z
+MET100	201910	11918	Electrical Circuits for Manufa	Tang, S
+MET131	201910	14729	Machine Workshop	Zhu, J
+MET131	201910	14730	Machine Workshop	Zhu, J
+MET223	201910	14731	Machines and Tooling	Yang, X
+MET232	201910	14446	Automated Manufacturing	Yang, X
+MET232	201910	14447	Automated Manufacturing	Yang, X
+MET242	201910	14448	CNC Machining Processes	Yang, X
+MET242	201910	14449	CNC Machining Processes	Yang, X
+MET315	201910	12776	Mechanical Systems	Moore, W
+MET315	201910	12777	Mechanical Systems	Moore, W
+MET324	201910	14732	Industrial Controls	Tang, S
+MET390	201910	11204	Design Proj/Indust Intern	Yang, X
+MET390	201910	11205	Design Proj/Indust Intern	Yang, X
+MET452	201910	10760	Automation and Proc Ctrl Tech	Zhang, Z
+MET452	201910	10761	Automation and Proc Ctrl Tech	Zhang, Z
+CHI100	201910	12110	Elementary Chinese I	Staff
+CHI101	201910	14335	Elementary Chinese II	Staff
+CHI200	201910	13837	Intermediate Chinese I	Staff
+ENG100	201910	12677	Intro to College Writing	Miller, A
+ENG100	201910	12677	Intro to College Writing	Miller, A
+ENG100	201910	12677	Intro to College Writing	Miller, A
+ENG100	201910	12685	Intro to College Writing	Miller, A
+ENG100	201910	12685	Intro to College Writing	Miller, A
+ENG100	201910	12685	Intro to College Writing	Miller, A
+ENG100	201910	13103	Intro to College Writing	Siebler, K
+ENG100	201910	13103	Intro to College Writing	Siebler, K
+ENG100	201910	13103	Intro to College Writing	Siebler, K
+ENG100	201910	12694	Intro to College Writing	Kluge, B
+ENG100	201910	12694	Intro to College Writing	Kluge, B
+ENG100	201910	12694	Intro to College Writing	Kluge, B
+ENG100	201910	12691	Intro to College Writing	Terrick, D
+ENG100	201910	12691	Intro to College Writing	Terrick, D
+ENG100	201910	12691	Intro to College Writing	Terrick, D
+ENG100	201910	12884	Intro to College Writing	Reinert, B
+ENG100	201910	12884	Intro to College Writing	Reinert, B
+ENG100	201910	12884	Intro to College Writing	Reinert, B
+ENG100	201910	14613	Intro to College Writing	Weiberg, K
+ENG100	201910	14613	Intro to College Writing	Weiberg, K
+ENG100	201910	14613	Intro to College Writing	Weiberg, K
+ENG100	201910	12710	Intro to College Writing	Andrews, D
+ENG100	201910	12710	Intro to College Writing	Andrews, D
+ENG100	201910	12710	Intro to College Writing	Andrews, D
+ENG100	201910	12696	Intro to College Writing	Staff
+ENG100	201910	12696	Intro to College Writing	Staff
+ENG100	201910	12696	Intro to College Writing	Staff
+ENG100	201910	12701	Intro to College Writing	Staff
+ENG100	201910	12701	Intro to College Writing	Staff
+ENG100	201910	12701	Intro to College Writing	Staff
+ENG100	201910	12709	Intro to College Writing	Weiberg, K
+ENG100	201910	12709	Intro to College Writing	Weiberg, K
+ENG100	201910	12709	Intro to College Writing	Weiberg, K
+ENG104	201910	12711	College Writing and Rhetoric	Moore, G
+ENG104	201910	12712	College Writing and Rhetoric	Church, W
+ENG104	201910	14621	College Writing and Rhetoric	Katchen, M
+ENG104	201910	12896	College Writing and Rhetoric	Kunkel, M
+ENG104	201910	12716	College Writing and Rhetoric	Andrews, D
+ENG104	201910	12717	College Writing and Rhetoric	Kunkel, M
+ENG104	201910	12718	College Writing and Rhetoric	Church, W
+ENG104	201910	12719	College Writing and Rhetoric	Roberts, I
+ENG104	201910	12722	College Writing and Rhetoric	Staff
+ENG104	201910	14339	College Writing and Rhetoric	Staff
+ENG104	201910	12725	College Writing and Rhetoric	Andrews, D
+ENG104	201910	13852	College Writing and Rhetoric	Terrick, D
+ENG104	201910	13853	College Writing and Rhetoric	Hewitt, J
+ENG104	201910	12728	College Writing and Rhetoric	Roberts, I
+ENG104	201910	14801	College Writing and Rhetoric	Martens, S
+ENG104	201910	12861	College Writing and Rhetoric	Staff
+ENG104	201910	12732	College Writing and Rhetoric	Moore, G
+ENG104	201910	14614	College Writing and Rhetoric	Kluge, B
+ENG104	201910	12733	College Writing and Rhetoric	Bartels, C
+ENG104	201910	14337	College Writing and Rhetoric	Bartels, C
+ENG108	201910	12735	College Writing and Research	Siebler, K
+ENG108	201910	12736	College Writing and Research	Siebler, K
+ENG108	201910	12737	College Writing and Research	Staff
+ENG108	201910	12858	College Writing and Research	Staff
+ENG108	201910	12862	College Writing and Research	Miller, A
+ENG108	201910	12863	College Writing and Research	Weiberg, K
+ENG108	201910	14341	College Writing and Research	Weiberg, K
+ENG108	201910	12740	College Writing and Research	Kluge, B
+ENG108	201910	13164	College Writing and Research	Kluge, B
+ENG112	201910	10465	Honors Composition & Rhetoric	Katchen, M
+ENG112	201910	12460	Honors Composition & Rhetoric	Katchen, M
+ENG112	201910	14606	Honors Composition & Rhetoric	Katchen, M
+ENG210	201910	10470	Approaches to Literature	Bartels, C
+ENG210	201910	10468	Approaches to Literature	Andrews, D
+ENG210	201910	14360	Approaches to Literature	Cadden, M
+ENG210	201910	13152	Approaches to Literature	Bensyl, S
+ENG220	201910	10695	Introduction to Reading Texts	Roberts, I
+ENG232	201910	13445	Language Awareness	Canon, E
+ENG245	201910	14437	Intro to Creative Writing	Kunkel, M
+ENG301	201910	10713	Advanced Composition	Siebler, K
+ENG302	201910	14803	Modern English Grammar	Canon, E
+ENG316	201910	10715	Internship in English	Terrick, D
+ENG316	201910	10716	Internship in English	Terrick, D
+ENG316	201910	10718	Internship in English	Terrick, D
+ENG316	201910	10720	Internship in English	Jeney, C
+ENG316	201910	10721	Internship in English	Jeney, C
+ENG316	201910	10723	Internship in English	Jeney, C
+ENG316	201910	10724	Internship in English	Jeney, C
+ENG326	201910	14804	Special Topics in Literature	Roberts, I
+ENG333	201910	14805	Studies in Drama	Moore, G
+ENG352	201910	14806	Lit in Eng: Beginnings to 1500	Jeney, C
+ENG357	201910	14807	Literature in Eng:1945-Present	Bensyl, S
+ENG364	201910	10763	Intro to Composition Theory	Jeney, C
+ENG385	201910	10764	Creative Writing: Prose	Church, W
+ENG395	201910	12442	The Mochila Review	Kunkel, M
+ENG401	201910	14408	Senior Portfolio	Staff
+ENG403	201910	14361	Literature for Children	Cadden, M
+ENG403	201910	14362	Literature for Children	Cadden, M
+ENG441	201910	14904	Shakespeare	Moore, G
+ENG465	201910	13449	Eng Teach:Methods and Material	Martens, S
+ENG466	201910	10770	Practicum in Teaching Writing	Terrick, D
+ENG473	201910	14889	History of English Language	Canon, E
+ENG485	201910	14059	Advanced Creative Writ: Prose	Church, W
+ENG502	201910	14898	Prof Learning Community	Martens, S
+ENG503	201910	14363	Literature for Children	Cadden, M
+ENG503	201910	14975	Literature for Children	Cadden, M
+ENG540	201910	14609	Writing for Management	Adkins, K
+ENG540	201910	14359	Writing for Management	Adkins, K
+ENG573	201910	14905	History English Language	Canon, E
+ENG609	201910	11639	Grad Research in Written Comm	Charlton, M
+ENG616	201910	13465	Internship in Writ Prog Admin	Jeney, C
+ENG690	201910	13222	Capstone Project	Staff
+ENG690	201910	13251	Capstone Project	Staff
+ENG695	201910	11671	Thesis	Staff
+ENG695	201910	11715	Thesis	Staff
+ENG695	201910	13176	Thesis	Jeney, C
+EPR620	201910	14892	Proposal and Grant Writing	Charlton, M
+ETC200	201910	10783	Intro to Tech Communication	Adkins, K
+ETC210	201910	14379	Intro to Digital Humanities	Jeney, C
+ETC316	201910	10786	Internship Tech Communications	Jeney, C
+ETC316	201910	10787	Internship Tech Communications	Jeney, C
+ETC316	201910	10788	Internship Tech Communications	Jeney, C
+ETC316	201910	10789	Internship Tech Communications	Jeney, C
+ETC401	201910	13453	Senior Portfolio	Staff
+ETC421	201910	14872	Res and Pract Technical Comm	Adkins, K
+ETC508	201910	14888	Technical Editing	Charlton, M
+ETC616	201910	13463	Internship in Technical Commun	Jeney, C
+ETC690	201910	13224	Capstone Project	Staff
+ETC690	201910	13864	Capstone Project	Staff
+ETC695	201910	11622	Thesis	Staff
+ETC695	201910	13177	Thesis	Staff
+ETC695	201910	13178	Thesis	Staff
+ETC695	201910	13179	Thesis	Staff
+FRE100	201910	10793	Elementary French I	Staff
+FRE100	201910	10795	Elementary French I	Whiteman, C
+FRE200	201910	10796	Intermediate French I	Whiteman, C
+FRE301	201910	13869	Methods Teaching Foreign Lang	Castilla Ortiz, F
+FRE302	201910	10797	Writ Expression & Translation	Whiteman, C
+FRE442	201910	14390	Intro French Cul/Civ/Lit III	Whiteman, C
+FRE462	201910	13169	Senior Thesis	Staff
+GER100	201910	10800	Elementary German I	Staff
+GER100	201910	14969	Elementary German I	Staff
+GER200	201910	10801	Intermediate German I	Staff
+GER301	201910	14967	Methods Teaching Foreign Lang	Castilla Ortiz, F
+SPA100	201910	10838	Elementary Spanish I	Staff
+SPA100	201910	10843	Elementary Spanish I	Rivera-Taupier, M
+SPA100	201910	10841	Elementary Spanish I	Staff
+SPA100	201910	10842	Elementary Spanish I	Bausset, A
+SPA100	201910	14442	Elementary Spanish I	Rivera-Taupier, M
+SPA100	201910	14968	Elementary Spanish I	Staff
+SPA100	201910	14875	Elementary Spanish I	Castilla Ortiz, F
+SPA101	201910	10849	Elementary Spanish II	Bausset, A
+SPA200	201910	13847	Intermediate Spanish I	Bausset, A
+SPA201	201910	13172	Intermediate Spanish II	Rivera-Taupier, M
+SPA301	201910	13887	Methods Teaching Foreign Lang	Castilla Ortiz, F
+SPA302	201910	10852	Grammar and Composition	Bausset, A
+SPA322	201910	10853	Intro Hispanic Civ & Culture I	Rivera-Taupier, M
+SPA432	201910	10854	Sel Studies in Lit In Spanish	Castilla Ortiz, F
+SPA452	201910	10856	Advanced Conversation	Castilla Ortiz, F
+SPA462	201910	12888	Senior Thesis	Bausset, A
+PED101	201910	11452	Fitness and Wellness	Molina, S
+PED101	201910	11452	Fitness and Wellness	Molina, S
+PED101	201910	11454	Fitness and Wellness	Small, G
+PED101	201910	11454	Fitness and Wellness	Small, G
+PED101	201910	11455	Fitness and Wellness	Staff
+PED101	201910	11455	Fitness and Wellness	Staff
+PED101	201910	13846	Fitness and Wellness	Staff
+PED101	201910	13846	Fitness and Wellness	Staff
+PED101	201910	13848	Fitness and Wellness	Small, G
+PED101	201910	13848	Fitness and Wellness	Small, G
+PED101	201910	14894	Fitness and Wellness	Staff
+PED101	201910	11459	Fitness and Wellness	Staff
+PED101	201910	11459	Fitness and Wellness	Staff
+PED101	201910	14896	Fitness and Wellness	Staff
+PED101	201910	11465	Fitness and Wellness	Staff
+PED101	201910	11466	Fitness and Wellness	Staff
+PED101	201910	11467	Fitness and Wellness	Staff
+PED101	201910	11468	Fitness and Wellness	Staff
+PED101	201910	11469	Fitness and Wellness	Staff
+PED101	201910	11470	Fitness and Wellness	Furlong, K
+PED101	201910	11471	Fitness and Wellness	Furlong, K
+PED101	201910	11472	Fitness and Wellness	Furlong, K
+PED101	201910	11475	Fitness and Wellness	Larimore, A
+PED101	201910	11476	Fitness and Wellness	Staff
+PED101	201910	13551	Fitness and Wellness	Kriewitz, K
+PED101	201910	11647	Fitness and Wellness	Staff
+PED101	201910	11647	Fitness and Wellness	Staff
+PED101	201910	11478	Fitness and Wellness	Staff
+PED101	201910	11478	Fitness and Wellness	Staff
+PED101	201910	11450	Fitness and Wellness	Russell, W
+PED101	201910	13552	Fitness and Wellness	Kriewitz, K
+PED101	201910	14719	Fitness and Wellness	Kriewitz, K
+PED101	201910	14719	Fitness and Wellness	Kriewitz, K
+PED101	201910	11479	Fitness and Wellness	Kriewitz, K
+PED101	201910	11480	Fitness and Wellness	Kriewitz, K
+PED101	201910	11481	Fitness And Wellness (Honors)	Russell, W
+PED110	201910	10974	Adaptive Activities	Kriewitz, K
+PED111	201910	14674	Beginning Curling	Staff
+PED116	201910	14675	Beginning Bait and Fly Casting	Gentry, C
+PED116	201910	14676	Beginning Bait and Fly Casting	Gentry, C
+PED118	201910	10979	Beginning Bowling	Tucker, N
+PED118	201910	10980	Beginning Bowling	Tucker, N
+PED118	201910	10981	Beginning Bowling	Tucker, N
+PED118	201910	14677	Beginning Bowling	Tucker, N
+PED118	201910	14205	Beginning Bowling	Tucker, N
+PED119	201910	14678	Beginning Golf	Dillon, G
+PED120	201910	14679	Beginning Tennis	Becker, S
+PED120	201910	14683	Beginning Tennis	Becker, S
+PED128	201910	14684	Beginning Backpacking	Gerling, J
+PED130	201910	14040	Beginning Swimming	Smith, J
+PED132	201910	14041	Intermediate Swimming	Smith, J
+PED135	201910	14685	Skin and Scuba Diving	Sternberg, E
+PED135	201910	14685	Skin and Scuba Diving	Sternberg, E
+PED138	201910	14686	Beginning Canoeing	Sternberg, E
+PED140	201910	14687	Beginning Ice Skating	Cole, D
+PED141	201910	10990	Beginning Karate	Sims, C
+PED144	201910	14688	Beginning Recreation Games	Staff
+PED144	201910	14688	Beginning Recreation Games	Staff
+PED145	201910	10992	Aerobic Dance	Furlong, K
+PED158	201910	10995	Intercollegiate Sports I	Dodd, R
+PED159	201910	14903	Intercollegiate Sports II	Dodd, R
+PED160	201910	13578	Dance Participation	Esely, J
+PED171	201910	14689	Beginning Cave Exploring	Potter, S
+PED180	201910	14212	Pilates	Staff
+PED181	201910	14452	Beginning Crossfit	Staff
+PED182	201910	14690	Yoga	Huffman, M
+PED182	201910	14691	Yoga	Staff
+PED185	201910	14721	Begin Weight Trng and Cond	Staff
+PED186	201910	11062	Aerobic Fitness	Staff
+PED191	201910	13582	Foundations of Physical Educat	Small, G
+PED191	201910	13582	Foundations of Physical Educat	Small, G
+PED192	201910	14451	Independent Physical Activity	Molina, S
+PED193	201910	11067	Sp Weight Train for Athletes	Dodd, R
+PED222	201910	11068	Human Sexuality	Dodd, R
+PED240	201910	12033	Lifetime Activities	Johnson, B
+PED240	201910	12033	Lifetime Activities	Johnson, B
+PED240	201910	12033	Lifetime Activities	Johnson, B
+PED241	201910	12034	Concepts of Sport Activities	Molina, S
+PED241	201910	12034	Concepts of Sport Activities	Molina, S
+PED241	201910	12034	Concepts of Sport Activities	Molina, S
+PED241	201910	12034	Concepts of Sport Activities	Molina, S
+PED246	201910	13199	Concepts of Dance and Gymnast	Molina, S
+PED246	201910	13199	Concepts of Dance and Gymnast	Molina, S
+PED246	201910	13199	Concepts of Dance and Gymnast	Molina, S
+PED246	201910	13199	Concepts of Dance and Gymnast	Molina, S
+PED303	201910	11074	Kinesiology	Kraft, J
+PED304	201910	11075	Physiology of Exercise	Kraft, J
+PED305	201910	13583	First Aid: Responding to Emerg	Small, G
+PED306	201910	13584	Sport Safety Training	Small, G
+PED312	201910	11078	Coaching Offic Basketball	Weiberg, B
+PED312	201910	11078	Coaching Offic Basketball	Weiberg, B
+PED315	201910	11079	Coaching Officiat Volleyball	Carbin, M
+PED315	201910	11079	Coaching Officiat Volleyball	Carbin, M
+PED317	201910	13803	Principles of Strength & Cond	Kriewitz, K
+PED317	201910	13803	Principles of Strength & Cond	Kriewitz, K
+PED318	201910	11081	Principles of Aerobic Training	Jones, M
+PED318	201910	11081	Principles of Aerobic Training	Jones, M
+PED318	201910	11081	Principles of Aerobic Training	Jones, M
+PED318	201910	11081	Principles of Aerobic Training	Jones, M
+PED327	201910	14706	Special Populations	Jones, M
+PED352	201910	13585	Fitness and Sports Nutrition	Jones, M
+PED374	201910	11090	Psychology Of Sport	Russell, W
+PED380	201910	14034	Rhythms and Creative Movement	Johnson, B
+PED380	201910	14034	Rhythms and Creative Movement	Johnson, B
+PED382	201910	11101	Elem School Physical Ed	Johnson, B
+PED382	201910	11101	Elem School Physical Ed	Johnson, B
+PED385	201910	13589	Athletic Training	Petty, R
+PED388	201910	11104	Community Health	Dodd, R
+PED391	201910	11107	Personal & Environmental Hlth	Dodd, R
+PED392	201910	12035	Child Growth and Motor Dev	Molina, S
+PED392	201910	12035	Child Growth and Motor Dev	Molina, S
+PED392	201910	12035	Child Growth and Motor Dev	Molina, S
+PED393	201910	11109	Measurement in Physical Ed	Russell, W
+PED393	201910	11109	Measurement in Physical Ed	Russell, W
+PED401	201910	11111	Graded Exercise Testing	Kriewitz, K
+PED417	201910	14708	Personal Training	Jones, M
+PED420	201910	12236	Senior Seminar in Phys Educ	Johnson, B
+PED430	201910	11112	Field Experience/Hlth Exer Sci	Kriewitz, K
+PED450	201910	13751	Independent Research/Project	Raffensperger, M
+PED450	201910	12165	Independent Research/Project	Kriewitz, K
+PED451	201910	11114	Research in Health & Exercise	Russell, W
+PED480	201910	11115	Practicum in Physical Ed.	Kraft, J
+PED480	201910	11116	Practicum in Physical Ed.	Kriley, B
+RSM220	201910	10909	Intro to Rec and Sport Mgmt	Choi, H
+RSM230	201910	10911	Rec/Sport Field Experience I	Jones, M
+RSM325	201910	10920	Law for the Rec/Sport Pract.	Choi, H
+RSM330	201910	10925	Rec/Sport Field Experience II	Jones, M
+RSM335	201910	10926	Instructor of Initiatives	Small, G
+RSM335	201910	10926	Instructor of Initiatives	Small, G
+RSM335	201910	10926	Instructor of Initiatives	Small, G
+RSM344	201910	10928	Travel and Tourism - Rec/Sport	Choi, H
+RSM360	201910	14330	Entrepreneurship in Rec/Sport	Oakleaf, L
+RSM365	201910	14739	Introduction to Special Popula	Oakleaf, L
+RSM420	201910	13202	Seminar - Rec and Sport Mgmt	Oakleaf, L
+RSM424	201910	10931	Org and Admin of Rec and Sport	Oakleaf, L
+RSM430	201910	10932	Rec/Sport Field Experience III	Oakleaf, L
+RSM480	201910	10933	Practicum in Rec and Sport	Oakleaf, L
+SFM525	201910	12864	Legal Aspects of Sport & Fitne	Salfrank, L
+SFM630	201910	13715	Internship	Choi, H
+SFM651	201910	12865	Research Methods	Johnson, B
+GEO100	201910	12591	World Geography	Drake, D
+GEO100	201910	13992	World Geography	Drake, D
+GEO160	201910	14610	Physical Geography	Drake, D
+GEO160	201910	14610	Physical Geography	Drake, D
+GEO320	201910	14906	Geography of Europe	Drake, D
+GEO426	201910	14973	Geographic Information Systems	Drake, D
+GEO426	201910	14973	Geographic Information Systems	Drake, D
+GEO450	201910	13485	Independent Research/Project	Drake, D
+GEO450	201910	13486	Independent Research/Project	Drake, D
+GEO450	201910	13487	Independent Research/Project	Drake, D
+GEO450	201910	13488	Independent Research/Project	Drake, D
+GEO499	201910	14907	Geography Internship	Drake, D
+HIS140	201910	13127	American History to 1865	DeBrincat, D
+HIS140	201910	13128	American History to 1865	DeBrincat, D
+HIS140	201910	14918	American History to 1865	Coe, L
+HIS140	201910	14000	American History to 1865	DeBrincat, D
+HIS140	201910	14981	Am History to 1865 (Honors)	DeBrincat, D
+HIS150	201910	13130	American History since 1865	Hart, E
+HIS150	201910	13131	American History since 1865	Hart, E
+HIS150	201910	12598	American History since 1865	Hart, E
+HIS150	201910	14001	American History since 1865	Frieling, D
+HIS200	201910	13133	Ancient and Medieval Civiliztn	Lemanski, S
+HIS200	201910	14299	Ancient and Medieval Civiliztn	Lemanski, S
+HIS210	201910	14002	Early Modern Civilization	Haas, A
+HIS210	201910	14919	Early Modern Civ (Honors)	Haas, A
+HIS230	201910	13135	Modern Europe: 1789 to Present	Staff
+HIS230	201910	13136	Modern Europe: 1789 to Present	Staff
+HIS230	201910	14300	Modern Europe: 1789 to Present	Staff
+HIS230	201910	14920	Modern Europe: 1789 to Present	Haas, A
+HIS300	201910	14979	American Colonial History	DeBrincat, D
+HIS310	201910	14921	English History to 1688	Lemanski, S
+HIS310	201910	14922	English Hist to 1688 (Honors)	Lemanski, S
+HIS330	201910	12608	Recent United States History	Hart, E
+HIS330	201910	13494	Recent US History (Honors)	Hart, E
+HIS339	201910	14623	Europe 1815-1914	Staff
+HIS339	201910	14923	Europe 1815-1914 (Honors)	Staff
+HIS365	201910	12614	Methods Teachng Social Studies	Frieling, D
+HIS396	201910	14924	The American Revolution	DeBrincat, D
+HIS396	201910	14925	American Revolution (Honors)	DeBrincat, D
+HIS399	201910	14926	Eur Colonial and Imperialism	Haas, A
+HIS399	201910	14927	Eur Col & Imperialism (Honors)	Haas, A
+HIS450	201910	13502	Independent Research/Project	Staff
+HIS450	201910	13503	Independent Research/Project	Staff
+HIS450	201910	13504	Independent Research/Project	Hart, E
+HIS450	201910	13505	Independent Research/Project	Staff
+HIS450	201910	13506	Independent Research/Project	Staff
+HUM203	201910	14309	Hum: Ancient and Medieval	Costanzo, J
+HUM204	201910	14909	Hum: Middle Ages-French Revol	Costanzo, J
+HUM204	201910	14910	Hum: Mid Ages-Fren Rev(Honors)	Costanzo, J
+HUM450	201910	13507	Independent Research/Project	Staff
+HUM450	201910	13508	Independent Research/Project	Staff
+HUM450	201910	13509	Independent Research/Project	Staff
+PHL219	201910	13123	Reasoning and Argumentation	Okapal, J
+PHL230	201910	12626	Ethics	Okapal, J
+PHL230	201910	12627	Ethics	DesAutels, L
+PHL230	201910	12628	Ethics	DesAutels, L
+PHL230	201910	14077	Ethics	Arp, R
+PHL301	201910	14911	Ancient Philosophy	Costanzo, J
+PHL330	201910	14912	Topics in Ethical Theory	DesAutels, L
+PHL370	201910	14913	Sel Top: Chinese Philosophy	Mathies, D
+PHL450	201910	13519	Independent Research/Project	Staff
+PHL450	201910	13520	Independent Research/Project	Staff
+PHL450	201910	13521	Independent Research/Project	Staff
+REL251	201910	14914	Religions of the West	Mathies, D
+REL251	201910	14915	Religions of the West (Honors)	Mathies, D
+REL361	201910	14916	War, Peace, & Religion	Mathies, D
+REL370	201910	14917	Sel Top: Chinese Philosophy	Mathies, D
+REL450	201910	13527	Independent Research/Project	Staff
+REL450	201910	13528	Independent Research/Project	Staff
+REL450	201910	13529	Independent Research/Project	Mathies, D
+HON195	201910	14669	Honors Colloquium	Grantham, M
+HON195	201910	14670	Honors Colloquium	Lemanski, S
+HON195	201910	14671	Honors Colloquium	Church, W
+HON195	201910	14720	Honors Colloquium	DesAutels, L
+HON195	201910	14743	Honors Colloquium	Bensyl, S
+HON395	201910	14672	Honors Colloquium	Caldwell, B
+HON395	201910	14673	Honors Colloquium	Bartels, C
+HON395	201910	14873	Honors Colloquium	Edwards, T
+MIL102	201910	10156	Leadership Practicum	Dickerson, C
+MIL106	201910	13842	Army Physical Fitness Training	Snellings, E
+MIL116	201910	14033	Intro to Army Critical Think	Dickerson, C
+MIL202	201910	10174	Leadership Practicum	Dickerson, C
+MIL216	201910	14032	Leadership and Decision Making	Dickerson, C
+MIL302	201910	10179	Leadership Practicum	Snellings, E
+MIL316	201910	10185	Training Mgmt and War Function	Snellings, E
+MIL402	201910	10186	Leadership Practicum	Kerns, Z
+MIL416	201910	10195	Mission Command and Army Prof	Kerns, Z
+MIL450	201910	10250	Independent Research/Project	Kerns, Z
+MUS100	201910	12431	Concert/Recital Attendance	Harrelson, R
+MUS101	201910	10946	Perspectives in Music	Gay, N
+MUS101	201910	10948	Perspectives in Music	Gay, N
+MUS101	201910	10950	Perspectives in Music	Edwards, T
+MUS101	201910	14978	Perspectives in Music	Harrelson, R
+MUS101	201910	10952	Perspectives In Music (Honors)	Edwards, T
+MUS103	201910	14745	Fundamentals of Music	Oliverio, J
+MUS103	201910	14785	Fundamentals of Music	Staff
+MUS106	201910	14778	Basic Keyboard Skills I	May, N
+MUS108	201910	12339	Basic Keyboard Skills II	Edwards, T
+MUS108	201910	14428	Basic Keyboard Skills II	May, N
+MUS109	201910	14748	Functional Voice Class	Staff
+MUS140	201910	10956	Community Chorus	Stammers, J
+MUS145	201910	11453	Marching Band	Gay, N
+MUS150	201910	10958	Applied Euphonium:Sec Instr	Harrelson, R
+MUS151	201910	10959	Applied French Horn:Sec Instru	Misko, K
+MUS152	201910	10960	Applied Trombone:Sec Instrumen	Harrelson, R
+MUS153	201910	10961	Applied Trumpet:Sec Instrument	Molloy, S
+MUS154	201910	10962	Applied Tuba:Sec Instrument	Harrelson, R
+MUS155	201910	10963	Applied Percussion:Sec Instrum	Knight, J
+MUS155	201910	14519	Applied Percussion:Sec Instrum	Rogers, D
+MUS156	201910	10964	Applied Cello:Sec Instrument	Karakus, E
+MUS157	201910	14147	Applied Double Bass:Sec Instru	Albright, J
+MUS158	201910	10966	Applied Guitar:Secondary Instr	Riley, J
+MUS159	201910	10967	Applied Viola:Sec Instrument	McNeela, R
+MUS160	201910	10968	Applied Violin:Sec Instrument	McNeela, R
+MUS161	201910	10969	Applied Bassoon:Sec Instrument	Yeager, R
+MUS162	201910	10970	Applied Clarinet:Sec Instrumen	Yeager, R
+MUS163	201910	10971	Applied Flute:Sec Instrument	Zuptich, L
+MUS164	201910	13696	Applied Oboe:Sec Instrument	Yeager, R
+MUS165	201910	10973	Applied Saxophone:Sec Instrume	Long, B
+MUS167	201910	10996	Applied Organ:Sec Instrument	McMurray, W
+MUS168	201910	10997	Applied Piano:Sec Instrument	Edwards, T
+MUS168	201910	14508	Applied Piano:Sec Instrument	May, N
+MUS168	201910	14761	Applied Piano:Sec Instrument	Holeman, M
+MUS169	201910	10998	Applied Voice:Sec Instrument	Hindemith, P
+MUS169	201910	14454	Applied Voice:Sec Instrument	Mathers, J
+MUS169	201910	14455	Applied Voice:Sec Instrument	Agnew, S
+MUS169	201910	14456	Applied Voice:Sec Instrument	Holeman, M
+MUS169	201910	14457	Applied Voice:Sec Instrument	Thompson, L
+MUS169	201910	14458	Applied Voice:Sec Instrument	Birger, E
+MUS169	201910	14459	Applied Voice:Sec Instrument	Zuptich, L
+MUS169	201910	14632	Applied Voice:Sec Instrument	Ragland, J
+MUS169	201910	14877	Applied Voice:Sec Instrument	Staff
+MUS170	201910	10999	Applied Euphonium:Major Instru	Harrelson, R
+MUS170	201910	11000	Applied Euphonium:Major Instru	Harrelson, R
+MUS171	201910	11001	Applied French Horn:Major Inst	Misko, K
+MUS171	201910	11002	Applied French Horn:Major Inst	Misko, K
+MUS172	201910	11003	Applied Trombone:Major Instrum	Harrelson, R
+MUS172	201910	11004	Applied Trombone:Major Instrum	Harrelson, R
+MUS173	201910	11005	Applied Trumpet:Major Instrum	Molloy, S
+MUS173	201910	11006	Applied Trumpet:Major Instrum	Molloy, S
+MUS174	201910	11669	Applied Tuba:Major Instrum	Harrelson, R
+MUS174	201910	11670	Applied Tuba:Major Instrum	Harrelson, R
+MUS175	201910	11007	Applied Percussion:Major Instr	Knight, J
+MUS175	201910	11008	Applied Percussion:Major Instr	Knight, J
+MUS175	201910	14521	Applied Percussion:Major Instr	Rogers, D
+MUS175	201910	14522	Applied Percussion:Major Instr	Rogers, D
+MUS176	201910	11009	Applied Cello:Major Instrument	Karakus, E
+MUS176	201910	11010	Applied Cello:Major Instrument	Karakus, E
+MUS177	201910	14148	Applied Double Bass:Major Inst	Albright, J
+MUS177	201910	14149	Applied Double Bass:Major Inst	Albright, J
+MUS178	201910	11015	Applied Guitar:Major Instrumen	Riley, J
+MUS178	201910	14551	Applied Guitar:Major Instrumen	Riley, J
+MUS179	201910	13756	Applied Viola:Major Instrument	McNeela, R
+MUS179	201910	14100	Applied Viola:Major Instrument	McNeela, R
+MUS180	201910	11019	Applied Violin:Major Instrumen	McNeela, R
+MUS180	201910	11020	Applied Violin:Major Instrumen	McNeela, R
+MUS181	201910	14561	Applied Bassoon:Major Instrume	Yeager, R
+MUS181	201910	14562	Applied Bassoon:Major Instrume	Yeager, R
+MUS182	201910	11024	Applied Clarinet:Major Instrum	Yeager, R
+MUS182	201910	11026	Applied Clarinet:Major Instrum	Yeager, R
+MUS183	201910	11027	Applied Flute:Major Instrument	Zuptich, L
+MUS183	201910	11028	Applied Flute:Major Instrument	Zuptich, L
+MUS184	201910	11030	Applied Oboe:Major Instrument	Yeager, R
+MUS184	201910	14570	Applied Oboe:Major Instrument	Yeager, R
+MUS185	201910	11035	Applied Saxophone:Major Instru	Long, B
+MUS185	201910	14577	Applied Saxophone:Major Instru	Long, B
+MUS188	201910	11042	Applied Piano:Major Instrument	Edwards, T
+MUS188	201910	11043	Applied Piano:Major Instrument	Edwards, T
+MUS188	201910	14509	Applied Piano:Major Instrument	May, N
+MUS188	201910	14510	Applied Piano:Major Instrument	May, N
+MUS188	201910	14762	Applied Piano:Major Instrument	Holeman, M
+MUS188	201910	14763	Applied Piano:Major Instrument	Holeman, M
+MUS189	201910	11044	Applied Voice:Major Instrument	Hindemith, P
+MUS189	201910	11045	Applied Voice:Major Instrument	Hindemith, P
+MUS189	201910	14460	Applied Voice:Major Instrument	Mathers, J
+MUS189	201910	14461	Applied Voice:Major Instrument	Mathers, J
+MUS189	201910	14462	Applied Voice:Major Instrument	Agnew, S
+MUS189	201910	14463	Applied Voice:Major Instrument	Agnew, S
+MUS189	201910	14464	Applied Voice:Major Instrument	Holeman, M
+MUS189	201910	14465	Applied Voice:Major Instrument	Holeman, M
+MUS189	201910	14466	Applied Voice:Major Instrument	Thompson, L
+MUS189	201910	14467	Applied Voice:Major Instrument	Thompson, L
+MUS189	201910	14468	Applied Voice:Major Instrument	Birger, E
+MUS189	201910	14469	Applied Voice:Major Instrument	Birger, E
+MUS189	201910	14470	Applied Voice:Major Instrument	Zuptich, L
+MUS189	201910	14471	Applied Voice:Major Instrument	Zuptich, L
+MUS189	201910	14633	Applied Voice:Major Instrument	Ragland, J
+MUS189	201910	14634	Applied Voice:Major Instrument	Ragland, J
+MUS189	201910	14758	Applied Voice:Major Instrument	Staff
+MUS189	201910	14759	Applied Voice:Major Instrument	Staff
+MUS201	201910	11417	Foundations in Vocal/Choral 1	Staff
+MUS208	201910	14760	Keyboard Proficiency II	May, N
+MUS210	201910	13574	Intro to Music Technology	McIntire, D
+MUS217	201910	12345	Theory and Analysis 2	Hamm, C
+MUS218	201910	12037	Aural Training 2	Hamm, C
+MUS240	201910	14787	Chamber Music Perform: Brass	Harrelson, R
+MUS243	201910	11053	Chamber Music Perform:Strings	McNeela, R
+MUS245	201910	14595	Chamber Music Perform:Woodwind	McNeela, R
+MUS270	201910	11119	Applied Euphonium:Major Instru	Harrelson, R
+MUS270	201910	11120	Applied Euphonium:Major Instru	Harrelson, R
+MUS271	201910	11121	Applied French Horn:Major Inst	Misko, K
+MUS271	201910	14534	Applied French Horn:Major Inst	Misko, K
+MUS272	201910	11123	Applied Trombone:Major Instrum	Harrelson, R
+MUS272	201910	11124	Applied Trombone:Major Instrum	Harrelson, R
+MUS273	201910	11125	Applied Trumpet:Major Instrum	Molloy, S
+MUS273	201910	11126	Applied Trumpet:Major Instrum	Molloy, S
+MUS274	201910	11127	Applied Tuba:Major Instrum	Harrelson, R
+MUS274	201910	11128	Applied Tuba:Major Instrum	Harrelson, R
+MUS275	201910	11129	Applied Percussion:Major Instr	Knight, J
+MUS275	201910	11130	Applied Percussion:Major Instr	Knight, J
+MUS275	201910	14523	Applied Percussion:Major Instr	Rogers, D
+MUS275	201910	14744	Applied Percussion:Major Instr	Rogers, D
+MUS276	201910	11132	Applied Cello:Major Instrument	Karakus, E
+MUS276	201910	11133	Applied Cello:Major Instrument	Karakus, E
+MUS277	201910	14545	Applied Double Bass:Major Inst	Albright, J
+MUS277	201910	14546	Applied Double Bass:Major Inst	Albright, J
+MUS278	201910	11137	Applied Guitar:Major Instrumen	Riley, J
+MUS278	201910	11140	Applied Guitar:Major Instrumen	Riley, J
+MUS279	201910	14553	Applied Viola:Major Instrument	McNeela, R
+MUS279	201910	14554	Applied Viola:Major Instrument	McNeela, R
+MUS280	201910	11147	Applied Violin:Major Instrumen	McNeela, R
+MUS280	201910	11148	Applied Violin:Major Instrumen	McNeela, R
+MUS281	201910	14563	Applied Bassoon:Major Instrume	Yeager, R
+MUS281	201910	14564	Applied Bassoon:Major Instrume	Yeager, R
+MUS282	201910	11151	Applied Clarinet:Major Instrum	Yeager, R
+MUS282	201910	11152	Applied Clarinet:Major Instrum	Yeager, R
+MUS283	201910	11153	Applied Flute:Major Instrument	Zuptich, L
+MUS283	201910	11157	Applied Flute:Major Instrument	Zuptich, L
+MUS284	201910	14571	Applied Oboe:Major Instrument	Yeager, R
+MUS284	201910	14572	Applied Oboe:Major Instrument	Yeager, R
+MUS285	201910	11160	Applied Saxophone:Major Instru	Long, B
+MUS285	201910	11161	Applied Saxophone:Major Instru	Long, B
+MUS288	201910	14511	Applied Piano:Major Instrument	Edwards, T
+MUS288	201910	11165	Applied Piano:Major Instrument	Edwards, T
+MUS288	201910	14512	Applied Piano:Major Instrument	May, N
+MUS288	201910	14513	Applied Piano:Major Instrument	May, N
+MUS288	201910	14764	Applied Piano:Major Instrument	Holeman, M
+MUS288	201910	14765	Applied Piano:Major Instrument	Holeman, M
+MUS289	201910	11166	Applied Voice:Major Instrument	Hindemith, P
+MUS289	201910	11167	Applied Voice:Major Instrument	Hindemith, P
+MUS289	201910	14472	Applied Voice:Major Instrument	Mathers, J
+MUS289	201910	14473	Applied Voice:Major Instrument	Mathers, J
+MUS289	201910	14474	Applied Voice:Major Instrument	Agnew, S
+MUS289	201910	14475	Applied Voice:Major Instrument	Agnew, S
+MUS289	201910	14476	Applied Voice:Major Instrument	Holeman, M
+MUS289	201910	14477	Applied Voice:Major Instrument	Holeman, M
+MUS289	201910	14478	Applied Voice:Major Instrument	Thompson, L
+MUS289	201910	14479	Applied Voice:Major Instrument	Thompson, L
+MUS289	201910	14480	Applied Voice:Major Instrument	Birger, E
+MUS289	201910	14481	Applied Voice:Major Instrument	Birger, E
+MUS289	201910	14482	Applied Voice:Major Instrument	Zuptich, L
+MUS289	201910	14483	Applied Voice:Major Instrument	Zuptich, L
+MUS289	201910	14635	Applied Voice:Major Instrument	Ragland, J
+MUS289	201910	14636	Applied Voice:Major Instrument	Ragland, J
+MUS304	201910	12822	Form and Analysis	Hamm, C
+MUS305	201910	14755	Entrepreneurship in Music	May, N
+MUS310	201910	12352	Music History I	Edwards, T
+MUS323	201910	12820	Music History III	McIntire, D
+MUS324	201910	14750	Electronics for Music Apps	McIntire, D
+MUS336	201910	14977	Fundamentals of Conducting	Harrelson, R
+MUS338	201910	11244	Concert Chorale	Hepworth, E
+MUS340	201910	11245	Renaissance Singers	Hepworth, E
+MUS341	201910	14756	Vocal Jazz Ensemble	Holeman, M
+MUS343	201910	14757	Brass Ensemble	Harrelson, R
+MUS344	201910	11247	Jazz Ensemble	Long, B
+MUS344	201910	11248	Jazz Ensemble	Long, B
+MUS344	201910	11249	Jazz Ensemble Jazz Combo	Long, B
+MUS345	201910	11250	Percussion Ensemble	Knight, J
+MUS346	201910	11251	Orchestra	McNeela, R
+MUS346	201910	11251	Orchestra	McNeela, R
+MUS347	201910	11252	Wind Ensemble	Hinton, J
+MUS353	201910	14751	Single Reed Methods & Material	Long, B
+MUS357	201910	12346	Theory and Analysis 4	Hamm, C
+MUS358	201910	12347	Aural Training 4	Hamm, C
+MUS360	201910	14752	Mus Technology Res and Eval	McIntire, D
+MUS361	201910	14581	Jazz Improvisation 2	Long, B
+MUS370	201910	11257	Applied Euphonium:Major Instru	Harrelson, R
+MUS370	201910	11280	Applied Euphonium:Major Instru	Harrelson, R
+MUS371	201910	14535	Applied French Horn:Major Inst	Misko, K
+MUS371	201910	14536	Applied French Horn:Major Inst	Misko, K
+MUS372	201910	14539	Applied Trombone:Major Instrum	Harrelson, R
+MUS372	201910	11287	Applied Trombone:Major Instrum	Harrelson, R
+MUS373	201910	11292	Applied Trumpet:Major Instrum	Molloy, S
+MUS373	201910	11289	Applied Trumpet:Major Instrum	Molloy, S
+MUS374	201910	11294	Applied Tuba:Major Instrum	Harrelson, R
+MUS374	201910	11295	Applied Tuba:Major Instrum	Harrelson, R
+MUS375	201910	11298	Applied Percussion:Major Instr	Knight, J
+MUS375	201910	11303	Applied Percussion:Major Instr	Knight, J
+MUS375	201910	14746	Applied Percussion:Major Instr	Rogers, D
+MUS375	201910	14747	Applied Percussion:Major Instr	Rogers, D
+MUS376	201910	14542	Applied Cello:Major Instrumen	Karakus, E
+MUS376	201910	14089	Applied Cello:Major Instrumen	Karakus, E
+MUS377	201910	14547	Applied Double Bass:Major Inst	Albright, J
+MUS377	201910	14548	Applied Double Bass:Major Inst	Albright, J
+MUS378	201910	11329	Applied Guitar:Major Instrumen	Riley, J
+MUS378	201910	11330	Applied Guitar:Major Instrumen	Riley, J
+MUS379	201910	14555	Applied Viola:Major Instrument	McNeela, R
+MUS379	201910	14556	Applied Viola:Major Instrument	McNeela, R
+MUS380	201910	14559	Applied Violin:Major Instrumen	McNeela, R
+MUS380	201910	14078	Applied Violin:Major Instrumen	McNeela, R
+MUS381	201910	14565	Applied Bassoon:Major Instrume	Yeager, R
+MUS381	201910	14566	Applied Bassoon:Major Instrume	Yeager, R
+MUS382	201910	11339	Applied Clarinet:Major Instrum	Yeager, R
+MUS382	201910	11340	Applied Clarinet:Major Instrum	Yeager, R
+MUS383	201910	14569	Applied Flute:Major Instrument	Zuptich, L
+MUS383	201910	11342	Applied Flute:Major Instrument	Zuptich, L
+MUS384	201910	14573	Applied Oboe:Major Instrument	Yeager, R
+MUS384	201910	14574	Applied Oboe:Major Instrument	Yeager, R
+MUS385	201910	11345	Applied Saxophone:Major Instru	Long, B
+MUS385	201910	11346	Applied Saxophone:Major Instru	Long, B
+MUS388	201910	11349	Applied Piano:Major Instrument	Edwards, T
+MUS388	201910	11350	Applied Piano:Major Instrument	Edwards, T
+MUS388	201910	14514	Applied Piano:Major Instrument	May, N
+MUS388	201910	14515	Applied Piano:Major Instrument	May, N
+MUS388	201910	14766	Applied Piano:Major Instrument	Holeman, M
+MUS388	201910	14767	Applied Piano:Major Instrument	Holeman, M
+MUS389	201910	11351	Applied Voice:Major Instrument	Hindemith, P
+MUS389	201910	11352	Applied Voice:Major Instrument	Hindemith, P
+MUS389	201910	14484	Applied Voice:Major Instrument	Mathers, J
+MUS389	201910	14485	Applied Voice:Major Instrument	Mathers, J
+MUS389	201910	14486	Applied Voice:Major Instrument	Agnew, S
+MUS389	201910	14487	Applied Voice:Major Instrument	Agnew, S
+MUS389	201910	14488	Applied Voice:Major Instrument	Holeman, M
+MUS389	201910	14489	Applied Voice:Major Instrument	Holeman, M
+MUS389	201910	14490	Applied Voice:Major Instrument	Thompson, L
+MUS389	201910	14491	Applied Voice:Major Instrument	Thompson, L
+MUS389	201910	14492	Applied Voice:Major Instrument	Birger, E
+MUS389	201910	14493	Applied Voice:Major Instrument	Birger, E
+MUS389	201910	14494	Applied Voice:Major Instrument	Zuptich, L
+MUS389	201910	14495	Applied Voice:Major Instrument	Zuptich, L
+MUS389	201910	14637	Applied Voice:Major Instrument	Ragland, J
+MUS389	201910	14638	Applied Voice:Major Instrument	Ragland, J
+MUS390	201910	11353	Junior Recital	Harrelson, R
+MUS390	201910	14811	Junior Recital	Agnew, S
+MUS390	201910	14814	Junior Recital	Albright, J
+MUS390	201910	14817	Junior Recital	Birger, E
+MUS390	201910	14820	Junior Recital	Edwards, T
+MUS390	201910	14823	Junior Recital	Karakus, E
+MUS390	201910	14826	Junior Recital	Hindemith, P
+MUS390	201910	14829	Junior Recital	Holeman, M
+MUS390	201910	14832	Junior Recital	Knight, J
+MUS390	201910	14835	Junior Recital	Long, B
+MUS390	201910	14838	Junior Recital	Mathers, J
+MUS390	201910	14841	Junior Recital	May, N
+MUS390	201910	14844	Junior Recital	McNeela, R
+MUS390	201910	14847	Junior Recital	Misko, K
+MUS390	201910	14850	Junior Recital	Molloy, S
+MUS390	201910	14853	Junior Recital	Ragland, J
+MUS390	201910	14856	Junior Recital	Riley, J
+MUS390	201910	14859	Junior Recital	Rogers, D
+MUS390	201910	14862	Junior Recital	Thompson, L
+MUS390	201910	14865	Junior Recital	Yeager, R
+MUS390	201910	14868	Junior Recital	Zuptich, L
+MUS390	201910	11354	Junior Recital (Honors)	Harrelson, R
+MUS400	201910	14429	Audio Recording and Analysis 1	McIntire, D
+MUS406	201910	11356	Composition	McIntire, D
+MUS406	201910	11357	Composition (Honors)	McIntire, D
+MUS415	201910	14753	Jazz History	Long, B
+MUS440	201910	11359	Commercial Music Practicum	McIntire, D
+MUS441	201910	14430	Advanced Choral Conducting	Hepworth, E
+MUS450	201910	11361	Independent Research/Project	Gay, N
+MUS450	201910	11362	Independent Research/Project	Harrelson, R
+MUS450	201910	11363	Independent Research/Project	Harrelson, R
+MUS450	201910	11364	Independent Research/Project	Harrelson, R
+MUS450	201910	11365	Independent Research/Project	Harrelson, R
+MUS450	201910	11366	Ind Research/Project (Honors)	Harrelson, R
+MUS450	201910	11367	Ind Research/Project (Honors)	Harrelson, R
+MUS450	201910	11368	Ind Research/Project (Honors)	Harrelson, R
+MUS450	201910	11369	Ind Research/Project (Honors)	Harrelson, R
+MUS450	201910	11370	Ind Research/Project (Honors)	Harrelson, R
+MUS467	201910	14431	Middle/High Sch Choral Methods	Hepworth, E
+MUS468	201910	11372	Mid/High Sch Instrumental Meth	Hinton, J
+MUS470	201910	11373	Applied Euphonium:Major Instru	Harrelson, R
+MUS470	201910	11374	Applied Euphonium:Major Instru	Harrelson, R
+MUS471	201910	14537	Applied French Horn:Major Inst	Misko, K
+MUS471	201910	14538	Applied French Horn:Major Inst	Misko, K
+MUS472	201910	11377	Applied Trombone:Major Instrum	Harrelson, R
+MUS472	201910	11378	Applied Trombone:Major Instrum	Harrelson, R
+MUS473	201910	14540	Applied Trumpet:Major Instrum	Molloy, S
+MUS473	201910	14541	Applied Trumpet:Major Instrum	Molloy, S
+MUS474	201910	11381	Applied Tuba:Major Instrum	Harrelson, R
+MUS474	201910	11382	Applied Tuba:Major Instrum	Harrelson, R
+MUS475	201910	11383	Applied Percussion:Major Instr	Knight, J
+MUS475	201910	11384	Applied Percussion:Major Instr	Knight, J
+MUS475	201910	14578	Applied Percussion:Major Instr	Rogers, D
+MUS475	201910	14579	Applied Percussion:Major Instr	Rogers, D
+MUS476	201910	14543	Applied Cello:Major Instrumen	Karakus, E
+MUS476	201910	14544	Applied Cello:Major Instrumen	Karakus, E
+MUS477	201910	14549	Applied Double Bass:Major Inst	Albright, J
+MUS477	201910	14550	Applied Double Bass:Major Inst	Albright, J
+MUS478	201910	11389	Applied Guitar:Major Instrumen	Riley, J
+MUS478	201910	11390	Applied Guitar:Major Instrumen	Riley, J
+MUS479	201910	14557	Applied Viola:Major Instrument	McNeela, R
+MUS479	201910	14558	Applied Viola:Major Instrument	McNeela, R
+MUS480	201910	14560	Applied Violin:Major Instrumen	McNeela, R
+MUS480	201910	11394	Applied Violin:Major Instrumen	McNeela, R
+MUS481	201910	14567	Applied Bassoon:Major Instrume	Yeager, R
+MUS481	201910	11396	Applied Bassoon:Major Instrume	Yeager, R
+MUS482	201910	11397	Applied Clarinet:Major Instrum	Yeager, R
+MUS482	201910	14568	Applied Clarinet:Major Instrum	Yeager, R
+MUS483	201910	14060	Applied Flute:Major Instrument	Zuptich, L
+MUS483	201910	13672	Applied Flute:Major Instrument	Zuptich, L
+MUS484	201910	14575	Applied Oboe:Major Instrument	Yeager, R
+MUS484	201910	14576	Applied Oboe:Major Instrument	Yeager, R
+MUS485	201910	14580	Applied Saxophone:Major Instru	Long, B
+MUS485	201910	11404	Applied Saxophone:Major Instru	Long, B
+MUS488	201910	11407	Applied Piano:Major Instrument	Edwards, T
+MUS488	201910	11408	Applied Piano:Major Instrument	Edwards, T
+MUS488	201910	14516	Applied Piano:Major Instrument	May, N
+MUS488	201910	14517	Applied Piano:Major Instrument	May, N
+MUS488	201910	14768	Applied Piano:Major Instrument	Holeman, M
+MUS488	201910	14769	Applied Piano:Major Instrument	Holeman, M
+MUS489	201910	11409	Applied Voice:Major Instrument	Hindemith, P
+MUS489	201910	11410	Applied Voice:Major Instrument	Hindemith, P
+MUS489	201910	14496	Applied Voice:Major Instrument	Mathers, J
+MUS489	201910	14497	Applied Voice:Major Instrument	Mathers, J
+MUS489	201910	14498	Applied Voice:Major Instrument	Agnew, S
+MUS489	201910	14499	Applied Voice:Major Instrument	Agnew, S
+MUS489	201910	14500	Applied Voice:Major Instrument	Holeman, M
+MUS489	201910	14501	Applied Voice:Major Instrument	Holeman, M
+MUS489	201910	14502	Applied Voice:Major Instrument	Thompson, L
+MUS489	201910	14503	Applied Voice:Major Instrument	Thompson, L
+MUS489	201910	14504	Applied Voice:Major Instrument	Birger, E
+MUS489	201910	14505	Applied Voice:Major Instrument	Birger, E
+MUS489	201910	14506	Applied Voice:Major Instrument	Zuptich, L
+MUS489	201910	14507	Applied Voice:Major Instrument	Zuptich, L
+MUS489	201910	14639	Applied Voice:Major Instrument	Ragland, J
+MUS489	201910	14640	Applied Voice:Major Instrument	Ragland, J
+MUS490	201910	11411	Senior Recital	Harrelson, R
+MUS490	201910	14812	Senior Recital	Agnew, S
+MUS490	201910	14815	Senior Recital	Albright, J
+MUS490	201910	14818	Senior Recital	Birger, E
+MUS490	201910	14821	Senior Recital	Edwards, T
+MUS490	201910	14824	Senior Recital	Karakus, E
+MUS490	201910	14827	Senior Recital	Hindemith, P
+MUS490	201910	14830	Senior Recital	Holeman, M
+MUS490	201910	14833	Senior Recital	Knight, J
+MUS490	201910	14836	Senior Recital	Long, B
+MUS490	201910	14839	Senior Recital	Mathers, J
+MUS490	201910	14842	Senior Recital	May, N
+MUS490	201910	14845	Senior Recital	McNeela, R
+MUS490	201910	14848	Senior Recital	Misko, K
+MUS490	201910	14851	Senior Recital	Molloy, S
+MUS490	201910	14854	Senior Recital	Ragland, J
+MUS490	201910	14857	Senior Recital	Riley, J
+MUS490	201910	14860	Senior Recital	Rogers, D
+MUS490	201910	14863	Senior Recital	Thompson, L
+MUS490	201910	14866	Senior Recital	Yeager, R
+MUS490	201910	14869	Senior Recital	Zuptich, L
+MUS490	201910	11412	Senior Recital (Honors)	Harrelson, R
+MUS491	201910	11413	Senior Recital	Harrelson, R
+MUS491	201910	14813	Senior Recital	Agnew, S
+MUS491	201910	14816	Senior Recital	Albright, J
+MUS491	201910	14819	Senior Recital	Birger, E
+MUS491	201910	14822	Senior Recital	Edwards, T
+MUS491	201910	14825	Senior Recital	Karakus, E
+MUS491	201910	14828	Senior Recital	Hindemith, P
+MUS491	201910	14831	Senior Recital	Holeman, M
+MUS491	201910	14834	Senior Recital	Knight, J
+MUS491	201910	14837	Senior Recital	Long, B
+MUS491	201910	14840	Senior Recital	Mathers, J
+MUS491	201910	14843	Senior Recital	May, N
+MUS491	201910	14846	Senior Recital	McNeela, R
+MUS491	201910	14849	Senior Recital	Misko, K
+MUS491	201910	14852	Senior Recital	Molloy, S
+MUS491	201910	14855	Senior Recital	Ragland, J
+MUS491	201910	14858	Senior Recital	Riley, J
+MUS491	201910	14861	Senior Recital	Rogers, D
+MUS491	201910	14864	Senior Recital	Thompson, L
+MUS491	201910	14867	Senior Recital	Yeager, R
+MUS491	201910	14870	Senior Recital	Zuptich, L
+MUS491	201910	11414	Senior Recital (Honors)	Harrelson, R
+MUS494	201910	11415	Topics and Proj/Mus Tech	McIntire, D
+MUS495	201910	11416	Senior Portfolio	McIntire, D
+ALH106	201910	10683	Medical Terminology	Foster, S
+ALH106	201910	10684	Medical Terminology	Fast, K
+ALH330	201910	14954	Intro to Epidemiology and Bios	Staff
+ALH350	201910	14045	Intro to Population Health	Sansone, F
+ALH351	201910	14531	Applied Pop Health Mgmt Lab	Sansone, F
+ALH352	201910	10686	Applied Nutrition	Kendall, H
+ALH402	201910	14047	Population Health Internship	Sansone, F
+HIF200	201910	14262	Health Care Delivery Systems	Foster, S
+HIF275	201910	14263	Coding and Class Systems I	Kennebeck, J
+HIF276	201910	14264	Coding and Class Systems I Lab	Kennebeck, J
+HIF300	201910	11945	Health Data Management	Fast, K
+HIF310	201910	11948	Clinical Classification System	Foster, S
+HIF330	201910	14265	Legal/Ethical Healthcare Mgmt	Staff
+HIF371	201910	14266	Professional Mgmt Experience I	Fast, K
+HIF410	201910	12299	Human Resources/Oper Mgmt	Fast, K
+HIF420	201910	12300	Clinical Data Management	King, C
+HIF430	201910	12301	Applied Health Informatics	Fast, K
+NUR300	201910	14269	Strategies for Success in Nurs	Baldwin, J
+NUR302	201910	13830	Intro to Standard-Based Nurs	Stewart, S
+NUR303	201910	13831	Intro to Clinical Nursing	Stewart, S
+NUR303	201910	13831	Intro to Clinical Nursing	Stewart, S
+NUR303	201910	13942	Intro to Clinical Nursing	Anderson, A
+NUR303	201910	13942	Intro to Clinical Nursing	Anderson, A
+NUR303	201910	13945	Intro to Clinical Nursing	Knorr, A
+NUR303	201910	13945	Intro to Clinical Nursing	Knorr, A
+NUR303	201910	13947	Intro to Clinical Nursing	Staff
+NUR303	201910	13947	Intro to Clinical Nursing	Staff
+NUR303	201910	13948	Intro to Clinical Nursing	Romero, K
+NUR303	201910	13948	Intro to Clinical Nursing	Romero, K
+NUR306	201910	13832	Holistic Assessment	Quenstedt-Moe, G
+NUR308	201910	13833	Prof Concepts in Nursing	Nold, L
+NUR314	201910	10883	Quantitative Analysis	Brooks, E
+NUR334	201910	10890	Pharmacology I	Campbell, C
+NUR336	201910	10891	Pharmacology II	Varghese, L
+NUR363	201910	14175	Adult Health I	Baldwin, J
+NUR364	201910	14177	Adult Health Clinical I	Varghese, L
+NUR364	201910	14178	Adult Health Clinical I	Roach, M
+NUR364	201910	14179	Adult Health Clinical I	Staff
+NUR364	201910	14180	Adult Health Clinical I	Stone, S
+NUR364	201910	14181	Adult Health Clinical I	Cooper, K
+NUR364	201910	14182	Adult Health Clinical I	Buck, L
+NUR384	201910	13185	Bridge Baccalaureate Nursing	Harris, C
+NUR385	201910	12649	Health Promotion/Assessment	Morsbach, J
+NUR395	201910	10899	Nursing Research in Practice	Yeh, P
+NUR395	201910	13596	Nursing Research in Practice	Staff
+NUR395	201910	13686	Nursing Research (Honors)	Yeh, P
+NUR402	201910	14654	Maternal/Newborn Nursing	Morsbach, J
+NUR402	201910	14218	Maternal/Newborn Nursing	Morsbach, J
+NUR402	201910	14221	Maternal/Newborn Nursing	Hemme, A
+NUR402	201910	14222	Maternal/Newborn Nursing	Calloway, D
+NUR403	201910	14223	Pediatric Nursing	Nold, L
+NUR403	201910	14224	Pediatric Nursing	Nold, L
+NUR403	201910	14225	Pediatric Nursing	Staff
+NUR403	201910	14226	Pediatric Nursing	Pontius, C
+NUR422	201910	14227	Adult Health II	Kendall, H
+NUR423	201910	14229	Adult Health Clinical II	Kendall, H
+NUR423	201910	14231	Adult Health Clinical II	Kendall, H
+NUR423	201910	14232	Adult Health Clinical II	Kendall, H
+NUR423	201910	14233	Adult Health Clinical II	Brewer, A
+NUR424	201910	14234	Care Coord Across Lifespan	Sansone, F
+NUR435	201910	10910	Mental Health Nursing	Campbell, C
+NUR435	201910	10913	Mental Health Nursing	Yeh, P
+NUR435	201910	10915	Mental Health Nursing	Campbell, C
+NUR435	201910	10916	Mental Health Nursing	Staff
+NUR453	201910	10934	Community and Population Hlth	Skinner, H
+NUR459	201910	10937	Research Application	Stewart, S
+NUR459	201910	10938	Research Application	Yeh, P
+NUR459	201910	10939	Research Application	Yeh, P
+NUR459	201910	14235	Research Application	Skinner, H
+NUR459	201910	10941	Research Application	Campbell, C
+NUR459	201910	14236	Research Application	Morsbach, J
+NUR459	201910	14237	Research Application	Quenstedt-Moe, G
+NUR459	201910	14238	Research Application	Baldwin, J
+NUR459	201910	11958	Research Application	Romero, K
+NUR459	201910	13687	Research Application (Honors)	Staff
+NUR474	201910	10942	Nursing Leadership & Mgt.	McDaniel, D
+NUR474	201910	11956	Nursing Leadership & Mgt.	Harris, C
+NUR475	201910	10943	Senior Capstone Clinical	Williams, M
+NUR475	201910	10944	Senior Capstone Clinical	McDaniel, D
+NUR475	201910	11637	Senior Capstone Clinical	Skinner, H
+NUR475	201910	11638	Senior Capstone Clinical	Brooks, E
+NUR479	201910	13951	RN-BSN Capstone Clinical	Romero, K
+NUR479	201910	13952	RN-BSN Capstone Clinical	Romero, K
+NUR488	201910	10945	Nursing Senior Seminar	Baldwin, J
+NUR492	201910	13713	Selected Topics In Nursing	Romero, K
+NUR492	201910	14057	Selected Topics In Nursing	Harris, C
+NUR501	201910	11705	Foundations Nsng Leadership	Brose, C
+NUR502	201910	13269	Advanced Health Assessment	Quenstedt-Moe, G
+NUR505	201910	14267	Nursing Seminar I	Harris, C
+NUR507	201910	14985	Statistics for Decision Supp	Brooks, E
+NUR606	201910	12423	Informatics for Decision Supp	Staff
+NUR607	201910	12647	Leadership - Financial Mgt.	Pepper, R
+NUR608	201910	13546	Curriculum and Program Develop	Brose, C
+NUR618	201910	14050	Heal Prom & Dis Prev Div Pop	Quenstedt-Moe, G
+NUR624	201910	13190	Nursing Seminar II	Staff
+NUR624	201910	14155	Nursing Seminar II	Staff
+NUR624	201910	14156	Nursing Seminar II	Baldwin, J
+NUR624	201910	14157	Nursing Seminar II	Harris, C
+NUR624	201910	14158	Nursing Seminar II	McDaniel, D
+NUR624	201910	14596	Nursing Seminar II	Staff
+NUR650	201910	14582	Nurse Leader Internship	Brooks, E
+NUR650	201910	14597	Nurse Leader Internship	Baldwin, J
+NUR650	201910	14598	Nurse Leader Internship	Harris, C
+NUR650	201910	14971	Nurse Leader Internship	Kendall, H
+NUR650	201910	14972	Nurse Leader Internship	Quenstedt-Moe, G
+PTA100	201910	12083	Intro To Physical Therapy	Raffensperger, M
+PTA110	201910	12084	Patient Care Skills	Hardwick, C
+PTA110	201910	12085	Patient Care Skills	Hardwick, C
+PTA110	201910	12085	Patient Care Skills	Hardwick, C
+PTA110	201910	12085	Patient Care Skills	Hardwick, C
+PTA110	201910	12085	Patient Care Skills	Hardwick, C
+PTA120	201910	12086	Modalities	Raffensperger, M
+PTA120	201910	12087	Modalities	Raffensperger, M
+PTA120	201910	12087	Modalities	Raffensperger, M
+PTA120	201910	12087	Modalities	Raffensperger, M
+PTA120	201910	12087	Modalities	Raffensperger, M
+PTA130	201910	12088	Functional Anatomy	Raffensperger, M
+PTA130	201910	12088	Functional Anatomy	Raffensperger, M
+PTA130	201910	12089	Functional Anatomy	Raffensperger, M
+PTA130	201910	12089	Functional Anatomy	Raffensperger, M
+PTA130	201910	12089	Functional Anatomy	Raffensperger, M
+PTA130	201910	12089	Functional Anatomy	Raffensperger, M
+PTA255	201910	12794	Clinical Orthopedics	Raffensperger, M
+PTA255	201910	12795	Clinical Orthopedics	Raffensperger, M
+PTA255	201910	12795	Clinical Orthopedics	Raffensperger, M
+PTA260	201910	12293	Clinical Neurology	Hardwick, C
+PTA260	201910	12294	Clinical Neurology	Hardwick, C
+LDR140	201910	14444	Introduction to Leadership	Nabors, M
+PSY101	201910	13353	General Psychology	Henry, K
+PSY101	201910	14186	General Psychology	Rieck, S
+PSY101	201910	14187	General Psychology	England, B
+PSY101	201910	14188	General Psychology	Rieck, S
+PSY101	201910	13357	General Psychology	Henry, K
+PSY101	201910	13358	General Psychology (Honors)	England, B
+PSY140	201910	14189	Psych Devel for Educators	Ziemer, C
+PSY140	201910	14190	Psych Devel for Educators	Ziemer, C
+PSY200	201910	13359	Intermediate Psychology	White, C
+PSY200	201910	14191	Intermediate Psychology	White, C
+PSY230	201910	14961	Psychology of Communication	Mandracchia, J
+PSY240	201910	13362	Life-Span Developmental	Ziemer, C
+PSY300	201910	13363	Intro Psychological Statistics	Cronk, B
+PSY300	201910	13364	Intro Psychological Statistics	Cronk, B
+PSY301	201910	13365	Psychology Research Methods	Rieck, S
+PSY303	201910	13787	Psychology Research Team	Deka, T
+PSY303	201910	13787	Psychology Research Team	Deka, T
+PSY303	201910	14735	Psychology Research Team	Henry, K
+PSY303	201910	14209	Psychology Research Team	Rieck, S
+PSY303	201910	14209	Psychology Research Team	Rieck, S
+PSY309	201910	13369	Abnormal Psychology	Mandracchia, J
+PSY319	201910	13370	Child/Adolescent Psychology	Deka, T
+PSY325	201910	14733	Psychology of Personality	Mandracchia, J
+PSY340	201910	14737	Cognitive Psychology	England, B
+PSY355	201910	13781	Sensation and Perception	Ziemer, C
+PSY365	201910	14436	Social Psychology	Henry, K
+PSY400	201910	14734	Intro Psy Testng and Assessmnt	Mandracchia, J
+PSY419	201910	14982	Animal Behavior	Jedlicka, J
+PSY419	201910	14983	Animal Behavior	Jedlicka, J
+PSY420	201910	13375	Practicum in Psychology	Mandracchia, J
+PSY430	201910	13376	History and Systems in Psych	White, C
+PSY450	201910	13377	Independent Research/Project	Cronk, B
+PSY450	201910	13378	Independent Research/Project	Cronk, B
+PSY450	201910	13379	Independent Research/Project	Cronk, B
+PSY450	201910	13381	Ind Research/Project (Honors)	Cronk, B
+PSY490	201910	13784	Senior Seminar	England, B
+CIN100	201910	13977	Introduction to Film	Hanson, R
+CIN120	201910	13978	Film Theory and Criticism	Lawrence, T
+CIN220	201910	14876	Film Studies	Hanson, R
+CIN253	201910	14880	Audio Production	Robertson, J
+CIN255	201910	14020	Editing I	Lawrence, T
+CIN280	201910	14420	Portfolio I	Hanson, R
+CIN345	201910	14421	Production II	Hanson, R
+CIN345	201910	14421	Production II	Hanson, R
+CIN410	201910	14878	Production	Hanson, R
+CIN442	201910	14879	Advanced Screenwriting	Lawrence, T
+CIN450	201910	14101	Independent Project	Hanson, R
+CIN477	201910	14021	Directing	Lawrence, T
+CIN480	201910	14422	Portfolio II	Hanson, R
+DAN101	201910	14014	Beginning Dance	Staff
+DAN110	201910	13667	Tap Dance I	Mallory, M
+DAN111	201910	14881	Jazz Dance I	Mallory, M
+THR113	201910	11187	Introduction to Theatre	Quillin, H
+THR113	201910	13708	Introduction to Theatre	Hanson, S
+THR113	201910	12697	Introduction to Theatre	Hanson, S
+THR126	201910	14886	Stage Movement Workshop	Staff
+THR140	201910	11185	Production Participation	Scroggs, M
+THR221	201910	14414	Technical Production 1	Stover, J
+THR228	201910	12169	Acting I	Mallory, M
+THR228	201910	14413	Acting I	Quillin, H
+THR281	201910	14418	Sophomore Portfolio	Hanson, S
+THR348	201910	12307	Directing for the Stage I	Quillin, H
+THR367	201910	14883	History of Theatre	Quillin, H
+THR368	201910	14887	History of Musical Theatre	Mallory, M
+THR450	201910	13675	Independent Project	Stover, J
+THR480	201910	10879	Senior Portfolio	Stover, J
+CED159	201910	14668	Vol Train: Dom & Sex Viol Advo	Turner, C
+CED249	201910	14667	American Sign Language	Ballard, T
