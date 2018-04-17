@@ -1,6 +1,9 @@
+import javax.xml.namespace.QName;
 import javax.xml.stream.XMLEventReader;
 import javax.xml.stream.XMLInputFactory;
 import javax.xml.stream.XMLStreamException;
+import javax.xml.stream.events.EndElement;
+import javax.xml.stream.events.StartElement;
 import javax.xml.stream.events.XMLEvent;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
@@ -25,7 +28,7 @@ public class Main {
         try {
             String departmentAbbreviation;
             String departmentName;
-            Department department;
+            Department department = new Department("","");
             XMLEventReader xmlEventReader = xmlInputFactory.createXMLEventReader(
                     new FileInputStream(fileName));
 
@@ -33,12 +36,31 @@ public class Main {
                 XMLEvent xmlEvent = xmlEventReader.nextEvent();
                 //System.out.println(xmlEvent);
                 if (xmlEvent.isStartElement()) {
-
                     System.out.println("Start Element: " + xmlEvent);
+
+                    StartElement it = xmlEvent.asStartElement();
+                    QName tag = it.getName();
+                    String name = tag.getLocalPart();
+                    System.out.println("Qname is " + tag);
+                    if(name.equalsIgnoreCase("department")){
+                        department = new Department("ab", "nm");
+                    }else if(name.equalsIgnoreCase("abbreviation")){
+                        String s = xmlEventReader.getElementText();
+                        department.setAbbreviation(s);
+                    }else if(name.equalsIgnoreCase("name")){
+                        String s = xmlEventReader.getElementText();
+                        department.setDepartmentName(s);
+                    }
                 }
                 if (xmlEvent.isEndElement()) {
 
                     System.out.println("End Element: " + xmlEvent);
+                    EndElement it = xmlEvent.asEndElement();
+                    String name = it.getName().getLocalPart();
+                    if(name.equalsIgnoreCase("department")){
+                        System.out.println(department);
+                        department = null;
+                    }
                 }
             }
 
